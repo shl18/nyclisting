@@ -1,0 +1,3168 @@
+2025-06-08T01:21:03: Scraping offset 0 (page 1)...
+2025-06-08T01:21:03: Scraper cron jobs started.
+2025-06-08T01:21:03: Main scrapers will run every 12 hours.
+2025-06-08T01:21:03: Front-end scrapers will run every 12.5 hours.
+2025-06-08T01:21:03: Next main run scheduled for: 6/8/2025, 1:00:00 PM
+2025-06-08T01:21:03: Next front-end run scheduled for: 6/8/2025, 1:30:00 PM
+2025-06-08T01:21:03: Time until next main run: 698 minutes
+2025-06-08T01:21:03: Time until next front-end run: 728 minutes
+2025-06-08T01:21:03: Scraper cron job started. Press Ctrl+C to stop.
+2025-06-11T22:16:46: Scraping offset 0 (page 1)...
+2025-06-11T22:16:47: Scraper cron jobs started.
+2025-06-11T22:16:47: Main scrapers will run every 12 hours.
+2025-06-11T22:16:47: Front-end scrapers will run every 12.5 hours.
+2025-06-11T22:16:47: Listing checks will run daily at 9:00 AM.
+2025-06-11T22:16:47: Next main run scheduled for: 6/12/2025, 10:00:00 AM
+2025-06-11T22:16:47: Next front-end run scheduled for: 6/12/2025, 10:30:00 AM
+2025-06-11T22:16:47: Next listing checks run scheduled for: 6/12/2025, 9:00:00 AM
+2025-06-11T22:16:47: Time until next main run: 703 minutes
+2025-06-11T22:16:47: Time until next front-end run: 733 minutes
+2025-06-11T22:16:47: Time until next listing checks run: 643 minutes
+2025-06-11T22:16:47: Scraper cron job started. Press Ctrl+C to stop.
+2025-06-11T22:16:51: Storing listings: [
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "North Bergen",
+2025-06-11T22:16:51:     "price": 2750,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/8600-blvd-east-north_bergen/5c",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/e8f0aef8054f929c75891a2fc9e3aa72-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "8600 Blvd East",
+2025-06-11T22:16:51:     "latitude": 40.80232,
+2025-06-11T22:16:51:     "longitude": -73.99555,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Jersey City",
+2025-06-11T22:16:51:     "price": 2600,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/81-bergen-avenue-jersey_city/3",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/22557d0e51b919d3d7a17a49a8590c21-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "81 Bergen Avenue",
+2025-06-11T22:16:51:     "latitude": 40.706,
+2025-06-11T22:16:51:     "longitude": -74.0872,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 2200,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 0,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/rental/4680645",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/cffb56ce6529d24564ce424d0e32beb7-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "267 Forrest Street",
+2025-06-11T22:16:51:     "latitude": 40.712093,
+2025-06-11T22:16:51:     "longitude": -74.07596,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "West New York",
+2025-06-11T22:16:51:     "price": 2300,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-lux-condominiums/307",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/c39ae51ce9a834b2e9388360dd9d9e92-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "407 56th Street",
+2025-06-11T22:16:51:     "latitude": 40.785454,
+2025-06-11T22:16:51:     "longitude": -74.018845,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Newport",
+2025-06-11T22:16:51:     "price": 3710,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/atlantic-at-newport/1008",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/11a37d1748c0974efaa69eb84c4b9930-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "31 River Court",
+2025-06-11T22:16:51:     "latitude": 40.7271,
+2025-06-11T22:16:51:     "longitude": -74.0316,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Journal Square",
+2025-06-11T22:16:51:     "price": 1500,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/55-tonnelle-avenue-jersey_city/606",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/50ffb5179171ec05ff91fbcdd28f5337-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "55 Tonnelle Avenue",
+2025-06-11T22:16:51:     "latitude": 40.73254,
+2025-06-11T22:16:51:     "longitude": -74.06724,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Brownsville",
+2025-06-11T22:16:51:     "price": 3100,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/644-saratoga-avenue-brooklyn/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/7c5e07ca490a0fd5e615cf41a838ca83-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "644 Saratoga Avenue",
+2025-06-11T22:16:51:     "latitude": 40.66507,
+2025-06-11T22:16:51:     "longitude": -73.91671,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 2750,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-altessa/906",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/df1420616b23b43f4b0e0e96e8fcb2ec-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "809-815 22nd Street",
+2025-06-11T22:16:51:     "latitude": 40.7683,
+2025-06-11T22:16:51:     "longitude": -74.0379,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 2825,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-altessa/1405",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/69915befeb8182b708afe2dbaa3e81f9-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "809-815 22nd Street",
+2025-06-11T22:16:51:     "latitude": 40.7683,
+2025-06-11T22:16:51:     "longitude": -74.0379,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Woodhaven",
+2025-06-11T22:16:51:     "price": 1900,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/86_02-forest-parkway-woodhaven/1c",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/d77b2c63475bff8b07a594cad573ccba-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "86-02 Forest Parkway",
+2025-06-11T22:16:51:     "latitude": 40.69345,
+2025-06-11T22:16:51:     "longitude": -73.861786,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 3500,
+2025-06-11T22:16:51:     "bedrooms": 5,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/rental/4704852",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/3027e338cb32aacfa34bbe7381287f04-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "17 Claremont Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7069,
+2025-06-11T22:16:51:     "longitude": -74.074,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Midtown",
+2025-06-11T22:16:51:     "price": 25985,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/7-w-57/17",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/b080eb7f27cc242a7547253ded2a84ea-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "7 West 57th Street",
+2025-06-11T22:16:51:     "latitude": 40.763523,
+2025-06-11T22:16:51:     "longitude": -73.974556,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2800,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/416",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/3a854ee2d69a739f83fdbac34f374098-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1 Flagship Street",
+2025-06-11T22:16:51:     "latitude": 40.669823,
+2025-06-11T22:16:51:     "longitude": -74.10024,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2600,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/409",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/38d3fa894053b9d2974ab3b9ff67d2ea-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1 Flagship Street",
+2025-06-11T22:16:51:     "latitude": 40.669823,
+2025-06-11T22:16:51:     "longitude": -74.10024,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 3400,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/417",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/9ec33d5c4093b415841d3859a63acb00-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1 Flagship Street",
+2025-06-11T22:16:51:     "latitude": 40.669823,
+2025-06-11T22:16:51:     "longitude": -74.10024,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2600,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/414",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/eabb83f712b13391f059c565af52d3f6-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1 Flagship Street",
+2025-06-11T22:16:51:     "latitude": 40.669823,
+2025-06-11T22:16:51:     "longitude": -74.10024,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2600,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/319",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/fe0b218f43a7c68727c7b77e79aeac9a-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1 Flagship Street",
+2025-06-11T22:16:51:     "latitude": 40.669823,
+2025-06-11T22:16:51:     "longitude": -74.10024,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Kew Gardens",
+2025-06-11T22:16:51:     "price": 2850,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/83_09-lefferts-boulevard-kew_gardens/2b",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/dcd585b2b5bc0ade9e4d29b6e6a48a0d-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "83-09 Lefferts Boulevard",
+2025-06-11T22:16:51:     "latitude": 40.705814,
+2025-06-11T22:16:51:     "longitude": -73.83138,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "West New York",
+2025-06-11T22:16:51:     "price": 11000,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/nine-on-the-hudson/517",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/58d708d3ba205eca9a2ec907142695b2-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "9 Avenue at Port Imperial",
+2025-06-11T22:16:51:     "latitude": 40.78404,
+2025-06-11T22:16:51:     "longitude": -74.00612,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 7750,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51: : 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/rental/4693678",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/89ca8e96aff8099e7b19709cdfb8186f-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "821 Summit Avenue",
+2025-06-11T22:16:51:     "latitude": 40.759445,
+2025-06-11T22:16:51:     "longitude": -74.04345,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "North Bergen",
+2025-06-11T22:16:51:     "price": 2900,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1501-72-street-north_bergen/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/2127f5420ceee439546692b9a1ef8c7d-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1501 72nd Street",
+2025-06-11T22:16:51:     "latitude": 40.801052,
+2025-06-11T22:16:51:     "longitude": -74.0187,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Journal Square",
+2025-06-11T22:16:51:     "price": 3800,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/26-stagg-street-jersey_city/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/1b5bc3799acf20d701642e0bcac1efcb-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "26 Stagg Street",
+2025-06-11T22:16:51:     "latitude": 40.742725,
+2025-06-11T22:16:51:     "longitude": -74.06102,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Journal Square",
+2025-06-11T22:16:51:     "price": 4000,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/rental/4404945",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/39aaae63bbb57b940b412207986d1c2a-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "26 Stagg Street",
+2025-06-11T22:16:51:     "latitude": 40.742725,
+2025-06-11T22:16:51:     "longitude": -74.06102,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2857,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/614",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/f3b9b1ac2b0d8643b037865fc15f7cbf-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "260 Avenue East",
+2025-06-11T22:16:51:     "latitude": 40.662266,
+2025-06-11T22:16:51:     "longitude": -74.116165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2686,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/506",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/ebb5434c9d57bb73eb0ba50f66ca5878-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "260 Avenue East",
+2025-06-11T22:16:51:     "latitude": 40.662266,
+2025-06-11T22:16:51:     "longitude": -74.116165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2857,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/604",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/184e424d57264b5cc3423cadc5c52721-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "260 Avenue East",
+2025-06-11T22:16:51:     "latitude": 40.662266,
+2025-06-11T22:16:51:     "longitude": -74.116165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2686,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/315",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/0d8bd539f68a5a40a0e2f99cd232c1cd-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "260 Avenue East",
+2025-06-11T22:16:51:     "latitude": 40.662266,
+2025-06-11T22:16:51:     "longitude": -74.116165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2429,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/203",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/c752b2596abd7c0fb9911b9c32d9abc4-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "260 Avenue East",
+2025-06-11T22:16:51:     "latitude": 40.662266,
+2025-06-11T22:16:51:     "longitude": -74.116165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "The Heights",
+2025-06-11T22:16:51:     "price": 2500,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/3539-john-f-kennedy-boulevard-jersey_city/3r",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/37f43e44d8e84e67727986807f3285b7-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "3539 John F Kennedy Boulevard",
+2025-06-11T22:16:51:     "latitude": 40.752823,
+2025-06-11T22:16:51:     "longitude": -74.05244,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 3353,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-ashton/318",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/e1bc6006e02a29f2b0b5d817283ae74e-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "2 Ash Street",
+2025-06-11T22:16:51:     "latitude": 40.714073,
+2025-06-11T22:16:51:     "longitude": -74.05636,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 3189,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-ashton/216",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/37dd38c997d607cb3b049a527a4273fe-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "2 Ash Street",
+2025-06-11T22:16:51:     "latitude": 40.714073,
+2025-06-11T22:16:51:     "longitude": -74.05636,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "St. Albans",
+2025-06-11T22:16:51:     "price": 1900,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/112_19-farmers-boulevard-saint_albans/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/f0ce60dbd5a1a28d3963eb567f879e3f-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "112-19 Farmers Boulevard",
+2025-06-11T22:16:51:     "latitude": 40.70042,
+2025-06-11T22:16:51:     "longitude": -73.76356,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "McGinley Square",
+2025-06-11T22:16:51:     "price": 2300,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/237-summit-avenue-jersey_city/3",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/79b1b6d7ba8b07b1489719031639dbf5-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "237 Summit Avenue",
+2025-06-11T22:16:51:     "latitude": 40.723537,
+2025-06-11T22:16:51:     "longitude": -74.06588,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Fresh Meadows",
+2025-06-11T22:16:51:     "price": 2695,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/189_04-64th-avenue-fresh_meadows/2l",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/f8fa9df9e36ae3079fff69b22076edae-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "189-04 64th Avenue",
+2025-06-11T22:16:51:     "latitude": 40.73933,
+2025-06-11T22:16:51:     "longitude": -73.78319,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Forest Hills",
+2025-06-11T22:16:51:     "price": 3300,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/108_48-70-road-forest_hills/8a",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/ed628a575562f4060c19a77ab21e1efb-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "108-48 70th Road",
+2025-06-11T22:16:51:     "latitude": 40.722565,
+2025-06-11T22:16:51:     "longitude": -73.84247,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Hoboken",
+2025-06-11T22:16:51:     "price": 2300,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/356-1-street-hoboken/1r",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/6aee733e6dd2097652c329da981fc8a0-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "356 1st Street",
+2025-06-11T22:16:51:     "latitude": 40.7383,
+2025-06-11T22:16:51:     "longitude": -74.036,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Newport",
+2025-06-11T22:16:51:     "price": 4200,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/45-river-drive-south-jersey_city/2703",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/3502a2da9556096c7ca8b3a7813b9326-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "45 River Dr South",
+2025-06-11T22:16:51:     "latitude": 40.7282,
+2025-06-11T22:16:51:     "longitude": -74.032,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Journal Square",
+2025-06-11T22:16:51:     "price": 2550,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/211-baldwin-avenue-jersey_city/601",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/f90cc67da995bb18298a758561fe27d6-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "211 Baldwin Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7295,
+2025-06-11T22:16:51:     "longitude": -74.0597,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Journal Square",
+2025-06-11T22:16:51:     "price": 2550,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51: n-avenue-jersey_city/rental/4509233",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/8a5f31c74941f2776328b0b663f9b090-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "211 Baldwin Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7295,
+2025-06-11T22:16:51:     "longitude": -74.0597,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Journal Square",
+2025-06-11T22:16:51:     "price": 2550,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/211-baldwin-avenue-jersey_city/606",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/2cc61aaec2d6b4332eab8be0a483fbf0-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "211 Baldwin Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7295,
+2025-06-11T22:16:51:     "longitude": -74.0597,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Journal Square",
+2025-06-11T22:16:51:     "price": 2600,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/211-baldwin-avenue-jersey_city/rental/4550323",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/a51987d244a5548fea3c10df08d83ffb-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "211 Baldwin Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7295,
+2025-06-11T22:16:51:     "longitude": -74.0597,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 3400,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/532-38-street-union_city/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/afbc8d7c247a7aaacbec527fd3e188b1-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "532 38th Street",
+2025-06-11T22:16:51:     "latitude": 40.775963,
+2025-06-11T22:16:51:     "longitude": -74.027916,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Upper West Side",
+2025-06-11T22:16:51:     "price": 2600,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/332-west-83-rd-street-house/1r",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/fe8d418df03c2bd1c1d35cc2e7a88ab8-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "332 West 83rd Street",
+2025-06-11T22:16:51:     "latitude": 40.787437,
+2025-06-11T22:16:51:     "longitude": -73.98084,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Midtown",
+2025-06-11T22:16:51:     "price": 11900,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/metropolitan-tower-condominium/42c",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/b33db062ad5d23ad95e57d86c23bfe3f-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "146 West 57th Street",
+2025-06-11T22:16:51:     "latitude": 40.7647,
+2025-06-11T22:16:51:     "longitude": -73.9793,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Hoboken",
+2025-06-11T22:16:51:     "price": 3870,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/418-monroe-street-hoboken/c",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/1233e242dce87e3db905b7b52db78d38-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "418 Monroe Street",
+2025-06-11T22:16:51:     "latitude": 40.74362,
+2025-06-11T22:16:51:     "longitude": -74.03895,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Lenox Hill",
+2025-06-11T22:16:51:     "price": 30000,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/sherry-netherland/1501",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/0740d5c3b8ad7fbfb907c17a42e46f63-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "781 5th Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7643,
+2025-06-11T22:16:51:     "longitude": -73.9725,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Lenox Hill",
+2025-06-11T22:16:51:     "price": 18000,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/sherry-netherland/611",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/d5a3e9ac86793464a308e80bc495989b-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "781 5th Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7643,
+2025-06-11T22:16:51:     "longitude": -73.9725,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Lenox Hill",
+2025-06-11T22:16:51:     "price": 15000,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/sherry-netherland/1611",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/183cdde7b1c0df1bd2470096a30d4df3-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "781 5th Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7643,
+2025-06-11T22:16:51:     "longitude": -73.9725,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Greenpoint",
+2025-06-11T22:16:51:     "price": 5250,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/239-banker-street-brooklyn/3n",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/ece23600a6daaec94fde098faf2b218b-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "239 Banker Street",
+2025-06-11T22:16:51:     "latitude": 40.726364,
+2025-06-11T22:16:51:     "longitude": -73.95597,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Greenpoint",
+2025-06-11T22:16:51:     "price": 5300,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/239-banker-street-brooklyn/4o",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/e80a34d063c9ec4e6e16406847bfb11d-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "239 Banker Street",
+2025-06-11T22:16:51:     "latitude": 40.726364,
+2025-06-11T22:16:51:     "longitude": -73.95597,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 2750,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/119-peter-st-union_city/308",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/b8dabf2bc284e30ecb3b2c799b7e08f0-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "119 Peter Street",
+2025-06-11T22:16:51:     "latitude": 40.77016,
+2025-06-11T22:16:51:     "longitude": -74.0245,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Lenox Hill",
+2025-06-11T22:16:51:     "price": 4900,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-promenade/20a",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/cd78aae97fb8407c25d3b17c522c8bb7-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "530 East 76th Street",
+2025-06-11T22:16:51:     "latitude": 40.7682,
+2025-06-11T22:16:51:     "longitude": -73.9501,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "North Bergen",
+2025-06-11T22:16:51:     "price": 4200,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1448-37-street-north_bergen/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/de9e5c1f3badcf31c1b311cc176af673-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1448 37th Street",
+2025-06-11T22:16:51:     "latitude": 40.778168,
+2025-06-11T22:16:51:     "longitude": -74.03412,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Paulus Hook",
+2025-06-11T22:16:51:     "price": 4100,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/253-washington-street-jersey_city/702",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/55f67bffdeff979f0d0acffe7159522c-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "253 Washington Street",
+2025-06-11T22:16:51:     "latitude": 40.7163,
+2025-06-11T22:16:51:     "longitude": -74.0375,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "McGinley Square",
+2025-06-11T22:16:51:     "price": 2950,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/13-boland-street-jersey_city/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/455ac448e3766652677ef29d56a44142-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "13 Boland Street",
+2025-06-11T22:16:51:     "latitude": 40.725,
+2025-06-11T22:16:51:     "longitude": -74.0697,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2700,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/250-avenue-e-bayonne/609",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/678b7d9f8c2969b970eac9c1206f6609-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "250 Avenue East",
+2025-06-11T22:16:51:     "latitude": 40.662037,
+2025-06-11T22:16:51:     "longitude": -74.11652,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2700,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/250-avenue-e-bayonne/607",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/0608899a9f7b0fa04fc90e79c1e62a5f-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "250 Avenue East",
+2025-06-11T22:16:51:     "latitude": 40.662037,
+2025-06-11T22:16:51:     "longitude": -74.11652,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "The Heights",
+2025-06-11T22:16:51:     "price": 2300,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/378-baldwin-avenue-jersey_city/5",
+2025-06-11T22:16:51: [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/957627417f4537aae3cfa9cf1caf5e04-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "378 Baldwin Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7336,
+2025-06-11T22:16:51:     "longitude": -74.0543,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Forest Hills",
+2025-06-11T22:16:51:     "price": 2250,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/108_25-72-avenue-forest_hills/2c",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/61d3882893a0377a3b7a2451536d09dc-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "108-25 72nd Avenue",
+2025-06-11T22:16:51:     "latitude": 40.720215,
+2025-06-11T22:16:51:     "longitude": -73.84242,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Belmont",
+2025-06-11T22:16:51:     "price": 3666,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/2503-hughes-avenue-bronx/1a",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/fe9e19047149d839a00176ad212efa63-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "2503 Hughes Avenue",
+2025-06-11T22:16:51:     "latitude": 40.85764,
+2025-06-11T22:16:51:     "longitude": -73.88511,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Belmont",
+2025-06-11T22:16:51:     "price": 4800,
+2025-06-11T22:16:51:     "bedrooms": 4,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/2503-hughes-avenue-bronx/4a",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/1c0f478eb65e9158720621da1f3587ee-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "2503 Hughes Avenue",
+2025-06-11T22:16:51:     "latitude": 40.85764,
+2025-06-11T22:16:51:     "longitude": -73.88511,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 3000,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/rental/4691858",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/bf085d7396cb2f3291aa6eeb2bafea1c-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "2025 New York Avenue",
+2025-06-11T22:16:51:     "latitude": 40.765213,
+2025-06-11T22:16:51:     "longitude": -74.03282,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "McGinley Square",
+2025-06-11T22:16:51:     "price": 2900,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/266-fairmount-avenue-jersey_city/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/76a69ec0858a2114ff0bfef74116a659-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "266 Fairmount Avenue",
+2025-06-11T22:16:51:     "latitude": 40.72388,
+2025-06-11T22:16:51:     "longitude": -74.068954,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bayonne",
+2025-06-11T22:16:51:     "price": 2150,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/618-broadway-bayonne/5",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/3a1eda116551da0caffab4437feb746b-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "618 Broadway",
+2025-06-11T22:16:51:     "latitude": 40.668026,
+2025-06-11T22:16:51:     "longitude": -74.11442,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "West New York",
+2025-06-11T22:16:51:     "price": 3800,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/573-67-street-west_new_york/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/4e35111302b6c00b5f4937cee5e9c621-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "573 67th Street",
+2025-06-11T22:16:51:     "latitude": 40.795,
+2025-06-11T22:16:51:     "longitude": -74.0148,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Jersey City",
+2025-06-11T22:16:51:     "price": 2200,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/213-martin-luther-king-boulevard-jersey_city/rental/4622947",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/309be506c8163e3c50b1dbc837940c4e-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "213 Martin Luther King Boulevard",
+2025-06-11T22:16:51:     "latitude": 40.70692,
+2025-06-11T22:16:51:     "longitude": -74.08393,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "East New York",
+2025-06-11T22:16:51:     "price": 3500,
+2025-06-11T22:16:51:     "bedrooms": 5,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/1108-blake-avenue-brooklyn/3",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/da0c57a9c3f7c0cbf42eed2fdf4c79c3-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "1108 Blake Avenue",
+2025-06-11T22:16:51:     "latitude": 40.67025,
+2025-06-11T22:16:51:     "longitude": -73.87712,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Cliffside Park",
+2025-06-11T22:16:51:     "price": 3550,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/2305",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/4b85ded9edd7ed0b8c419f0fee6cd1b1-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "197 Gorge Road",
+2025-06-11T22:16:51:     "latitude": 40.811195,
+2025-06-11T22:16:51:     "longitude": -73.992165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Cliffside Park",
+2025-06-11T22:16:51:     "price": 3335,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/1106",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/04681a83fbdb2e2715cb8637d1cca07d-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "197 Gorge Road",
+2025-06-11T22:16:51:     "latitude": 40.811195,
+2025-06-11T22:16:51:     "longitude": -73.992165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Cliffside Park",
+2025-06-11T22:16:51:     "price": 5050,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 3,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/506",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/f0405fa651973769ac2031c2e4d202ae-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "197 Gorge Road",
+2025-06-11T22:16:51:     "latitude": 40.811195,
+2025-06-11T22:16:51:     "longitude": -73.992165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Cliffside Park",
+2025-06-11T22:16:51:     "price": 4388,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/1004",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/b668a2db02dab319e8841e5cc248efe0-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "197 Gorge Road",
+2025-06-11T22:16:51:     "latitude": 40.811195,
+2025-06-11T22:16:51:     "longitude": -73.992165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Cliffside Park",
+2025-06-11T22:16:51:     "price": 3300,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/1602",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/489328c39887703b071e702744e0f20d-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "197 Gorge Road",
+2025-06-11T22:16:51:     "latitude": 40.811195,
+2025-06-11T22:16:51:     "longitude": -73.992165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Kew Gardens Hills",
+2025-06-11T22:16:51:     "price": 2700,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-opal/523",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/f459b193c22cae05698c853e46e3319b-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "75-25 153rd Street",
+2025-06-11T22:16:51:     "latitude": 40.72511,
+2025-06-11T22:16:51:     "longitude": -73.81263,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Kew Gardens Hills",
+2025-06-11T22:16:51:     "price": 2300,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-opal/ph15",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/1a7f01f99c9f13f8941d8cdfb52af321-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "75-25 153rd Street",
+2025-06-11T22:16:51:     "latitude": 40.72511,
+2025-06-11T22:16:51:     "longitude": -73.81263,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Kew Gardens Hills",
+2025-06-11T22:16:51:     "price": 3300,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-opal/936",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/5b62750c90fd82e801b9d01ee2230dba-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "75-25 153rd Street",
+2025-06-11T22:16:51:     "latitude": 40.72511,
+2025-06-11T22:16:51:     "longitude": -73.81263,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Kew Gardens Hills",
+2025-06-11T22:16:51:     "price": 3300,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-opal/634",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/739511b8c50a6b2653313a2254992df1-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "75-25 153rd Street",
+2025-06-11T22:16:51:     "latitude": 40.72511,
+2025-06-11T22:16:51:     "longitude": -73.81263,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Kew Gardens Hills",
+2025-06-11T22:16:51:     "price": 2500,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-opal/536",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51: hotos.zillowstatic.com/fp/aa6861df324a54a7d43b0a5c6c7e43c6-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "75-25 153rd Street",
+2025-06-11T22:16:51:     "latitude": 40.72511,
+2025-06-11T22:16:51:     "longitude": -73.81263,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Laurelton",
+2025-06-11T22:16:51:     "price": 2300,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/134_29-218-street-springfield_gardens/b4",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/3e4801ad0e5e4c42d70db95785f3d610-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "134-29 218th Street",
+2025-06-11T22:16:51:     "latitude": 40.678932,
+2025-06-11T22:16:51:     "longitude": -73.75165,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 2150,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/613-12-street-union_city/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/313175b307bd691b6ae79ff337ce8fd1-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "613 12th Street",
+2025-06-11T22:16:51:     "latitude": 40.76008,
+2025-06-11T22:16:51:     "longitude": -74.03977,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "North Bergen",
+2025-06-11T22:16:51:     "price": 3800,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/8621-churchill-road-north_bergen/6c",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/33665523ff2f61ff3dd1923a813f9da2-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "8621 Churchill Road",
+2025-06-11T22:16:51:     "latitude": 40.802895,
+2025-06-11T22:16:51:     "longitude": -73.99389,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Central Harlem",
+2025-06-11T22:16:51:     "price": 5200,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/6w126-6-west-126th-street-new_york/6hh",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/322458509dcaa6e43009f5e4d2b6fb4f-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "6 West 126th Street",
+2025-06-11T22:16:51:     "latitude": 40.807217,
+2025-06-11T22:16:51:     "longitude": -73.94257,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Central Harlem",
+2025-06-11T22:16:51:     "price": 3100,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/6w126-6-west-126th-street-new_york/5l",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/c15270d012bbd111938275b5f59cd487-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "6 West 126th Street",
+2025-06-11T22:16:51:     "latitude": 40.807217,
+2025-06-11T22:16:51:     "longitude": -73.94257,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Mott Haven",
+2025-06-11T22:16:51:     "price": 3200,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/445-gerard-avenue-bronx/w715",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/3dabb201b0d8f87a176cebacd13aaac4-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "445 Gerard Avenue",
+2025-06-11T22:16:51:     "latitude": 40.817543,
+2025-06-11T22:16:51:     "longitude": -73.93009,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 2140,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/61-virginia-avenue-jersey_city/103",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/a7d9142535869901d0986a33db321ef5-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "61 Virginia Avenue",
+2025-06-11T22:16:51:     "latitude": 40.712532,
+2025-06-11T22:16:51:     "longitude": -74.07811,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Guttenberg",
+2025-06-11T22:16:51:     "price": 3300,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/6907-bergenline-avenue-guttenberg/2",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/c5ca2e1c4a8b1e15bae95be9cf291623-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "6907 Bergenline Avenue",
+2025-06-11T22:16:51:     "latitude": 40.795948,
+2025-06-11T22:16:51:     "longitude": -74.01129,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Murray Hill",
+2025-06-11T22:16:51:     "price": 2150,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/34_15-parsons-boulevard-flushing/4gg",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/cd73493288dcb9bf7207d5676831651c-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "34-15 Parsons Boulevard",
+2025-06-11T22:16:51:     "latitude": 40.76639,
+2025-06-11T22:16:51:     "longitude": -73.82329,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 2750,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/126-orient-avenue-jersey_city/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/34fb68c6da1c6ee3d45b9b4f541b2b08-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "126 Orient Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7116,
+2025-06-11T22:16:51:     "longitude": -74.0814,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Waterfront",
+2025-06-11T22:16:51:     "price": 4150,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/hamilton-square-condominiums/815",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/ee76c77ed3cd64717415cf6909ea8abc-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "232 Pavonia Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7275,
+2025-06-11T22:16:51:     "longitude": -74.0431,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Guttenberg",
+2025-06-11T22:16:51:     "price": 1985,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/6515-boulevard-east-west_new_york/rental/4656030",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/409cfc8a02cf0a55156925d1aad8210a-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "6515 Blvd East",
+2025-06-11T22:16:51:     "latitude": 40.793,
+2025-06-11T22:16:51:     "longitude": -74.0016,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Guttenberg",
+2025-06-11T22:16:51:     "price": 2100,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/6515-boulevard-east-west_new_york/rental/4659530",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/409cfc8a02cf0a55156925d1aad8210a-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "6515 Blvd East",
+2025-06-11T22:16:51:     "latitude": 40.793,
+2025-06-11T22:16:51:     "longitude": -74.0016,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Midtown",
+2025-06-11T22:16:51:     "price": 12995,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 2,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-park-imperial/50c",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/d29806a8619eeae323e993380af7375a-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "230 West 56th Street",
+2025-06-11T22:16:51:     "latitude": 40.7652,
+2025-06-11T22:16:51:     "longitude": -73.9823,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Oakland Gardens",
+2025-06-11T22:16:51:     "price": 2600,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/69_07-222-street-oakland_gardens/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/6e95df1575c2d20dec6e764841b9699f-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "69-07 222nd Street",
+2025-06-11T22:16:51:     "latitude": 40.74358,
+2025-06-11T22:16:51:     "longitude": -73.752686,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "East Flatbush",
+2025-06-11T22:16:51:     "price": 3369,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/3403-foster-avenue-brooklyn/2g",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/995f8050d73e98e77436fad8fc60e270-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "3403 Foster Avenue",
+2025-06-11T22:16:51:     "latitude": 40.6392,
+2025-06-11T22:16:51:     "longitude": -73.944,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 2100,
+2025-06-11T22:16:51:     "bedrooms": 3,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/57-orient-avenue-jersey_city/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/ee724afd44c55be9115591593d266087-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "57 Orient Avenue",
+2025-06-11T22:16:51:     "latitude": 40.709877,
+2025-06-11T22:16:51:     "longitude": -74.079285,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Saint George",
+2025-06-11T22:16:51:     "price": 3300,
+2025-06-11T22:16:51:     "bedrooms": 2,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/the-view/4a",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/6250a7a423ff094c86cf6d1cd68ab0f2-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "224 Richmond Terrace",
+2025-06-11T22:16:51:     "latitude": 40.646915,
+2025-06-11T22:16:51:     "longitude": -74.080605,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Saint George",
+2025-06-11T22:16:51:     "price": 2700,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51: eteasy.com/building/the-view/5d",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/ba4ff32c7c254c6bbf950e321ed59223-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "224 Richmond Terrace",
+2025-06-11T22:16:51:     "latitude": 40.646915,
+2025-06-11T22:16:51:     "longitude": -74.080605,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "McGinley Square",
+2025-06-11T22:16:51:     "price": 1900,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/687-bergen-avenue-jersey_city/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/18f81f0639ce966a0e8c233b10800420-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "687 Bergen Avenue",
+2025-06-11T22:16:51:     "latitude": 40.7236,
+2025-06-11T22:16:51:     "longitude": -74.0703,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Union City",
+2025-06-11T22:16:51:     "price": 1800,
+2025-06-11T22:16:51:     "bedrooms": 0,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/4428_4430-bergenline-avenue-union_city/4b",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/230b150d523a99c4a91f99735925d904-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "4428-4430 Bergenline Avenue",
+2025-06-11T22:16:51:     "latitude": 40.779026,
+2025-06-11T22:16:51:     "longitude": -74.023895,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   },
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     "title": "Bergen/Lafayette",
+2025-06-11T22:16:51:     "price": 1799,
+2025-06-11T22:16:51:     "bedrooms": 1,
+2025-06-11T22:16:51:     "bathrooms": 1,
+2025-06-11T22:16:51:     "listingUrl": "https://streeteasy.com/building/290-summit-avenue-jersey_city/1",
+2025-06-11T22:16:51:     "imageUrls": [
+2025-06-11T22:16:51:       "https://photos.zillowstatic.com/fp/2d0c90f5bfae67efdaddb70137dd93d5-p_e.webp"
+2025-06-11T22:16:51:     ],
+2025-06-11T22:16:51:     "address": "290 Summit Avenue",
+2025-06-11T22:16:51:     "latitude": 40.725044,
+2025-06-11T22:16:51:     "longitude": -74.064354,
+2025-06-11T22:16:51:     "city": "New York",
+2025-06-11T22:16:51:     "source": "STREETEASY"
+2025-06-11T22:16:51:   }
+2025-06-11T22:16:51: ]
+2025-06-11T22:16:59: Found 1471 listings with empty descriptions
+2025-06-11T22:17:00: Found 11 unique listings and 0 duplicates on page 0
+2025-06-11T22:17:00: Scraping offset 10 (page 2)...
+2025-06-11T22:17:01: Found 1625 active spareroom listings
+2025-06-11T22:17:01: 
+2025-06-11T22:17:01: Checking listing: Luxury Hell Kitchen 2 bedroom with W/D
+2025-06-11T22:17:02: Found 3257 listings to process
+2025-06-11T22:17:02: Processing listing: https://streeteasy.com/building/466-myrtle-avenue-brooklyn/3
+2025-06-11T22:17:02: 🧭 Launching browser...
+2025-06-11T22:17:04: Found 3911 active StreetEasy listings
+2025-06-11T22:17:04: 
+2025-06-11T22:17:04: Checking listing: Coney Island
+2025-06-11T22:17:04: 🌐 Navigating to URL: https://streeteasy.com/building/466-myrtle-avenue-brooklyn/3
+2025-06-11T22:17:07: 📄 Response status: 200
+2025-06-11T22:17:09: Found 11 unique listings and 0 duplicates on page 1
+2025-06-11T22:17:09: Scraping offset 20 (page 3)...
+2025-06-11T22:17:09: ❌ Failed to check listing status
+2025-06-11T22:17:09: 
+2025-06-11T22:17:09: Checking listing: Midwood
+2025-06-11T22:17:10: ✅ The advertiser IS accepting applications.
+2025-06-11T22:17:10: ✅ Listing is active
+2025-06-11T22:17:10: 
+2025-06-11T22:17:10: Checking listing: Room in Central Harlem on a flexible lease
+2025-06-11T22:17:11: ❌ Amenity selector ul:has-text("Amenities") li failed: DOMException: SyntaxError: Failed to execute 'querySelectorAll' on 'Document': 'ul:has-text("Amenities") li' is not a valid selector.
+2025-06-11T22:17:11:     at evaluateHandle (evaluateHandle at CSSQueryHandler.queryAll (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/lib/cjs/puppeteer/common/QueryHandler.js:116:73), <anonymous>:1:15)
+2025-06-11T22:17:11:     at ExecutionContext.#evaluate (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:452:34)
+2025-06-11T22:17:11:     at async ExecutionContext.evaluateHandle (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:350:12)
+2025-06-11T22:17:11:     at async IsolatedWorld.evaluateHandle (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:175:12)
+2025-06-11T22:17:11:     at async CdpJSHandle.evaluateHandle (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/api/JSHandle.ts:94:12)
+2025-06-11T22:17:11:     at async CdpElementHandle.evaluateHandle (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/api/ElementHandle.ts:305:12)
+2025-06-11T22:17:11:     at async Function.queryAll (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/common/QueryHandler.ts:108:20)
+2025-06-11T22:17:11:     at async Function.collect (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/AsyncIterableUtil.ts:32:22)
+2025-06-11T22:17:11:     at async CdpElementHandle.#$$impl (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/api/ElementHandle.ts:438:12)
+2025-06-11T22:17:11:     at async CdpElementHandle.#$$ (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/api/ElementHandle.ts:425:12)
+2025-06-11T22:17:11: 🔍 Agent data from page: {
+2025-06-11T22:17:11:   name: 'Francesco Belviso',
+2025-06-11T22:17:11:   company: '466 Myrtle Avenue #3',
+2025-06-11T22:17:11:   sourceAgentId: '929949',
+2025-06-11T22:17:11:   website: 'https://streeteasy.com/profile/929949',
+2025-06-11T22:17:11:   logoUrl: 'https://photos.zillowstatic.com/fp/bd2dfad11327c872f10c1b0a95cabdf5-se_medium_500_250.webp',
+2025-06-11T22:17:11:   profession: 'Licensed Real Estate Salesperson'
+2025-06-11T22:17:11: }
+2025-06-11T22:17:11: ✅ Browser closed.
+2025-06-11T22:17:11: 🔍 Processing agent data: {
+2025-06-11T22:17:11:   name: 'Francesco Belviso',
+2025-06-11T22:17:11:   company: '466 Myrtle Avenue #3',
+2025-06-11T22:17:11:   sourceAgentId: '929949',
+2025-06-11T22:17:11:   website: 'https://streeteasy.com/profile/929949',
+2025-06-11T22:17:11:   logoUrl: 'https://photos.zillowstatic.com/fp/bd2dfad11327c872f10c1b0a95cabdf5-se_medium_500_250.webp',
+2025-06-11T22:17:11:   profession: 'Licensed Real Estate Salesperson'
+2025-06-11T22:17:11: }
+2025-06-11T22:17:11: 🔍 Found existing agents: []
+2025-06-11T22:17:11: 🔍 Creating new agent...
+2025-06-11T22:17:12: ❌ Failed to check listing status
+2025-06-11T22:17:12: 
+2025-06-11T22:17:12: Checking listing: Midwood
+2025-06-11T22:17:12: ✅ Created new agent: lrjmhkkxcye27ei7hf9ehrsr with source ID: 929949
+2025-06-11T22:17:18: ✅ Updated listing lkqhqm41en0ae35vsfajdyzd with agent lrjmhkkxcye27ei7hf9ehrsr
+2025-06-11T22:17:18: ⏳ Waiting 30 seconds before next request...
+2025-06-11T22:17:20: Found 11 unique listings and 0 duplicates on page 2
+2025-06-11T22:17:20: Scraping offset 30 (page 4)...
+2025-06-11T22:17:24: Days on Market: 47
+2025-06-11T22:17:24: Availability: Available now
+2025-06-11T22:17:24: ✅ Listing is active
+2025-06-11T22:17:24: 
+2025-06-11T22:17:24: Checking listing: West New York
+2025-06-11T22:17:32: Days on Market: 182
+2025-06-11T22:17:32: Availability: Available now
+2025-06-11T22:17:32: ❌ Listing is inactive - removing from database
+2025-06-11T22:17:35: 
+2025-06-11T22:17:35: Checking listing: Noho
+2025-06-11T22:17:41: Navigation retry 1 failed for https://www.spareroom.com/roommate/room_for_rent.pl?flatshare_id=102794566&search_id=500076618236&page=6
+2025-06-11T22:17:42: Days on Market: 171
+2025-06-11T22:17:42: Availability: Available now
+2025-06-11T22:17:43: ❌ Listing is inactive - removing from database
+2025-06-11T22:17:44: 
+2025-06-11T22:17:44: Checking listing: Ditmas Park
+2025-06-11T22:17:44: Found 11 unique listings and 0 duplicates on page 3
+2025-06-11T22:17:44: Scraping offset 40 (page 5)...
+2025-06-11T22:17:48: Processing listing: https://streeteasy.com/building/3000-ocean-parkway-brooklyn/8k
+2025-06-11T22:17:48: 🧭 Launching browser...
+2025-06-11T22:17:49: 🌐 Navigating to URL: https://streeteasy.com/building/3000-ocean-parkway-brooklyn/8k
+2025-06-11T22:17:53: 📄 Response status: 200
+2025-06-11T22:17:53: Days on Market: 47
+2025-06-11T22:17:53: Availability: Available now
+2025-06-11T22:17:53: ✅ Listing is active
+2025-06-11T22:17:53: 
+2025-06-11T22:17:53: Checking listing: Williamsburg
+2025-06-11T22:17:57: 🔍 Agent data from page: {
+2025-06-11T22:17:57:   name: 'Shorecrest Towers',
+2025-06-11T22:17:57:   company: '3000 Ocean Parkway #8K',
+2025-06-11T22:17:57:   sourceAgentId: '898275',
+2025-06-11T22:17:57:   website: 'https://streeteasy.com/profile/898275',
+2025-06-11T22:17:57:   logoUrl: "data:image/svg+xml,%3c%3fxml version='1.0' encoding='utf-8'%3f%3e%3c!-- Generator: Adobe Illustrator 24.3.0%2c SVG Export Plug-In . SVG Version: 6.00 Build 0) --%3e%3csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 62 62' style='enable-background:new 0 0 62 62%3b' xml:space='preserve'%3e%3cstyle type='text/css'%3e .st0%7bfill:%23F5D9BD%3b%7d .st1%7bclip-path:url(%23SVGID_2_)%3b%7d .st2%7bfill:%23F5F5F5%3b%7d .st3%7bfill:%23CEF4FF%3b%7d .st4%7bfill:white%3b%7d .st5%7bfill:%23FF9A34%3b%7d .st6%7bfill:%23032765%3b%7d .st7%7bfill:%231876DB%3b%7d .st8%7bfill:%23A1A1A1%3b%7d .st9%7bfill:%23CDCDCD%3b%7d%3c/style%3e%3cg id='Layer_2_1_'%3e %3cg id='Layer_1-2'%3e %3ccircle class='st0' cx='31' cy='31' r='31'/%3e %3cg%3e %3cdefs%3e %3ccircle id='SVGID_1_' cx='31' cy='31' r='31'/%3e %3c/defs%3e %3cclipPath id='SVGID_2_'%3e %3cuse xlink:href='%23SVGID_1_' style='overflow:visible%3b'/%3e %3c/clipPath%3e %3cg class='st1'%3e %3crect x='-18.4' y='-12.2' class='st2' width='102.7' height='85.2'/%3e %3cpath class='st3' d='M54.1%2c130c0-0.1%2c0-0.2%2c0.1-0.3c0.7-3.1%2c1-6.3%2c1-9.6c0-5-1-10-3-14.6c-2.5-1.1-6.3-2.2-14.8-2.2 c-7.1%2c0-14.9%2c1.2-20.6%2c4.5v0.5c0%2c4.7-0.1%2c9.3-0.2%2c14c-3.9%2c14.3-11.9%2c38.9-26%2c57.4h39.2c3.2-5.9%2c6.9-12%2c10.4-18.2 c4.7%2c6.3%2c9.2%2c12.8%2c14.1%2c18.9l33.2-0.4C84.6%2c174.2%2c54.1%2c130%2c54.1%2c130z'/%3e %3cpath class='st4' d='M93.9%2c137.3l0.3-0.1l-2.4-5.2l-2.2-5.5c-0.1-0.7-0.2-2.4-0.8-2.8c-0.3-0.3-0.6-0.4-1-0.5l-0.2-0.4 l-16.9%2c2.7l0%2c0l-8.3%2c1.4l-6.4%2c1.1l-2.7%2c0.5c-4.2%2c0.7-7%2c4.6-6.5%2c8.8l1.1%2c8.3L65%2c143l5.7-0.8l23.9-3.2L93.9%2c137.3z'/%3e %3cpath class='st5' d='M93.8%2c139l-23.1%2c3.2L65%2c143l-17.2%2c2.4l0.8%2c6.3l0.6%2c4.5c0.6%2c4.4%2c4.6%2c7.4%2c8.9%2c6.9l17.9-2.4l6.8-0.9 c4.6-0.6%2c10.2-4.1%2c9.7-8.8L93.8%2c139z'/%3e %3cpath class='st6' d='M86.3%2c134.4c0%2c3.6-1.1%2c7.1-3.8%2c6.7c-2.8-0.4-4.7%2c1.9-7.6%2c1c-3-0.9-3.5-5.3-3.5-8.4c0-2.4%2c0.2-4.8%2c0.3-6.8 c0-0.8%2c0.1-1.5%2c0.1-2.1c-0.2-1.4-0.4-2.8-0.8-4.2c1-0.3%2c1.9-0.6%2c2.9-0.8c2.2-0.3%2c4.5-0.7%2c6.8-1.1c0.5%2c2.4%2c1.1%2c4.7%2c2%2c6.9 C84.2%2c129.3%2c86.3%2c131%2c86.3%2c134.4z'/%3e %3cpath class='st7' d='M52.3%2c105.5c-2.5-1.1-6.3-2.2-14.8-2.2c-7.1%2c0-14.9%2c1.2-20.6%2c4.5c0-3.6-0.1-6.7-0.2-9.4 c4.5-3.5%2c10.6-5.2%2c16.5-5.2c6.5%2c0%2c10.1%2c1.5%2c13.9%2c2.7c0%2c0.2%2c0%2c0.4%2c0%2c0.5C49.1%2c99.2%2c50.9%2c102.3%2c52.3%2c105.5z'/%3e %3cpath class='st8' d='M37.5%2c34.4c0.2%2c1.3%2c0.4%2c2.5%2c0.7%2c3.8c-3.6%2c1.3-7.1%2c3-10.3%2c5.1c-0.2-2-0.7-3.8-2.3-4.7 c-1.2%2c0.4-2.4%2c0.7-3.7%2c0.8c-4%2c0-3.6-4.3-4-7.2c-2.3-1-3.3-2.5-3.3-3.3c0-1.3%2c2.4-1.9%2c3.1-3.7c0.7-1.5%2c1.1-3.1%2c1.7-4.6 c0.5-0.1%2c1-0.1%2c1.5-0.2c3.2%2c0%2c2.5%2c2.9%2c4.8%2c2.9c1.4%2c0%2c2.5-1.2%2c3.7-1.2s2.6%2c1.1%2c2.6%2c3.4c0%2c1.3-0.3%2c2.8-0.4%2c4.2l0%2c0 c-0.2%2c0-0.3%2c0-0.5%2c0c-1.8%2c0-3.3%2c1.5-3.3%2c3.3c0%2c1.8%2c1.5%2c3.3%2c3.3%2c3.3c1.3%2c0%2c2.5-0.8%2c3-2c0.4%2c0.1%2c0.8%2c0.2%2c1.2%2c0.2 c0.6%2c0%2c1.3-0.2%2c1.8-0.5C37.3%2c34.2%2c37.4%2c34.3%2c37.5%2c34.4z M18.4%2c30.6c-0.4-0.6-0.8-1.5-1-1.5l0%2c0c-0.2%2c0-0.2%2c0.1-0.2%2c0.2 C17.2%2c29.7%2c17.9%2c30.3%2c18.4%2c30.6z'/%3e %3cpath class='st9' d='M37.5%2c34.4c-0.1-0.1-0.2-0.3-0.3-0.4c-0.6%2c0.3-1.2%2c0.5-1.8%2c0.5c-0.4%2c0-0.8-0.1-1.2-0.2 c0.2-0.4%2c0.3-0.8%2c0.3-1.3c0-1.6-1.2-3-2.8-3.2c0-1.4%2c0.4-2.9%2c0.4-4.2c0-2.3-1.4-3.4-2.6-3.4s-2.3%2c1.2-3.7%2c1.2 c-2.3%2c0-1.6-2.9-4.8-2.9c-0.5%2c0-1%2c0.1-1.5%2c0.2c-0.6%2c0.1-1.1%2c0.2-1.7%2c0.2c-1.5%2c0-3.2-1.1-3.2-2.6c0.1-1.6%2c1.4-2.8%2c3-2.7 c0%2c0%2c0.1%2c0%2c0.1%2c0c0.5%2c0%2c1%2c0.1%2c1.5%2c0.1c0-0.2%2c0-0.4%2c0-0.7c0-3.8%2c2.1-7%2c6.1-7c3.3%2c0%2c4.9%2c1.4%2c5.8%2c2.5c1.5-1.7%2c3.6-2.7%2c5.8-2.8 c3.2%2c0%2c4.9%2c2.6%2c4.9%2c5.2c0%2c0.4%2c0%2c0.7-0.1%2c1.1c0.2%2c0%2c0.5%2c0%2c0.7-0.1c2.9%2c0%2c4.5%2c2.4%2c4.5%2c5.3c0.1%2c1.6-0.5%2c3.1-1.6%2c4.3 c0.4%2c0.7%2c0.7%2c1.5%2c0.7%2c2.3c0%2c1.9-1%2c3.6-2.6%2c4.6c0.2%2c0.4%2c0.3%2c0.8%2c0.3%2c1.3c-0.1%2c2-1.7%2c3.7-3.7%2c3.9C38.9%2c35.7%2c38%2c35.2%2c37.5%2c34.4z'/%3e %3cpath class='st9' d='M34.5%2c33c0%2c0.5-0.1%2c0.9-0.3%2c1.3c-1.6-0.7-2.6-2.4-2.5-4.1v-0.4l0%2c0C33.3%2c30%2c34.5%2c31.4%2c34.5%2c33z'/%3e %3cpath class='st8' d='M34.2%2c34.3c-0.7%2c1.7-2.7%2c2.4-4.3%2c1.7s-2.4-2.7-1.7-4.3c0.5-1.2%2c1.7-1.9%2c3-1.9c0.2%2c0%2c0.3%2c0%2c0.5%2c0v0.4 C31.5%2c31.9%2c32.5%2c33.6%2c34.2%2c34.3z'/%3e %3cpath class='st8' d='M17.4%2c29.1c0.2%2c0%2c0.7%2c0.8%2c1%2c1.5c-0.5-0.2-1.3-0.8-1.3-1.2C17.1%2c29.3%2c17.2%2c29.2%2c17.4%2c29.1L17.4%2c29.1z'/%3e %3cpath class='st9' d='M38.2%2c38.2c0.5-0.2%2c1-0.3%2c1.5-0.4c2.7%2c0%2c5.8%2c4.3%2c8%2c8.1c2.3%2c0.3%2c5.1%2c0.6%2c7.4%2c2.8 c5.9%2c5.6%2c24.8%2c57.5%2c28.8%2c69.9c-2.8%2c0.3-5.7%2c0.8-8.6%2c1.2c-1.1%2c0.2-3.2%2c0.6-5.4%2c1c-2.8%2c0.6-5.5-1.2-6.1-4c0%2c0%2c0%2c0%2c0%2c0 c-0.8-4.6-2.1-9-3.8-13.3c-3.1-7-7.8-13.1-12-19.5c-0.3%2c4-0.7%2c7.9-1.1%2c11.9c-3.8-1.2-7.4-2.7-13.9-2.7c-5.8%2c0-12%2c1.7-16.5%2c5.2 c0-0.2%2c0-0.3%2c0-0.4c-0.3-5.3-1-10.7-2.2-15.9c-1-3.7-1.5-7.5-1.5-11.4c0-8.8%2c4-13.9%2c11-20.2c-0.1-0.6-0.2-1.3-0.2-1.9 c0-1.8%2c1.8-3.6%2c4.1-5.2C31.1%2c41.2%2c34.6%2c39.5%2c38.2%2c38.2z'/%3e %3cpath class='st4' d='M14.5%2c82c1.2%2c5.2%2c1.9%2c10.6%2c2.2%2c15.9C9.8%2c97.4%2c7%2c93.3%2c4.8%2c90l0%2c0c0.9-4%2c2.8-7.7%2c5.6-10.7 C11.8%2c80.2%2c13.1%2c81.1%2c14.5%2c82L14.5%2c82z'/%3e %3cpath class='st7' d='M9.1%2c78.6c0.5%2c0.2%2c0.9%2c0.5%2c1.4%2c0.8C7.7%2c82.4%2c5.7%2c86%2c4.8%2c90l0%2c0c-0.8-1.3-1.8-2.4-2.9-3.3 c-0.2-0.2-0.5-0.3-0.8-0.5c0.7-3.3%2c2.3-6.4%2c4.4-9C6.8%2c77.6%2c7.9%2c78.1%2c9.1%2c78.6z'/%3e %3cpath class='st6' d='M4.3%2c76.6c0.4%2c0.2%2c0.9%2c0.4%2c1.3%2c0.5c-2.2%2c2.6-3.7%2c5.7-4.4%2c9c-0.8-0.4-1.6-0.8-2.5-1.2 c0.1-0.7%2c0.2-1.4%2c0.2-2.2c0-3.6-2-3.8-2.7-5.4c0.4-0.5%2c0.7-1%2c1-1.5l-0.4-0.2c-2-1-4.2-1.9-4.2-3.2c0-0.4%2c0.5-0.6%2c1.3-0.6 c4.4%2c0%2c6.8%2c0.8%2c8.3%2c2C3.1%2c74.6%2c3.8%2c75.6%2c4.3%2c76.6z'/%3e %3cpath class='st6' d='M-1.1%2c82.9c0%2c0.7-0.1%2c1.5-0.2%2c2.2c-3.3-1.4-6.9-2.9-6.9-7.4c0-0.6%2c0-1.1%2c0.1-1.7c1.4%2c0.7%2c2.8%2c1.2%2c4.3%2c1.6 l0.1-0.1C-3.1%2c79.1-1.1%2c79.3-1.1%2c82.9z'/%3e %3cpath class='st4' d='M-3.1%2c75.8l0.4%2c0.2c-0.3%2c0.5-0.7%2c1-1%2c1.5l-0.1%2c0.1c-1.5-0.4-2.9-0.9-4.3-1.5c-11.6-5.3-26.9-20.5-30.3-30.1 h0.6C-28.9%2c58.3-18.2%2c71.6-3.1%2c75.8z'/%3e %3cpath class='st4' d='M-7.3%2c72.5c0%2c1.3%2c2.2%2c2.2%2c4.2%2c3.2c-15.1-4.1-25.8-17.5-34.8-29.9c0.8%2c0%2c1.6%2c0%2c2.4%2c0c4.9%2c0%2c9.8%2c0.4%2c14.7%2c0.4 c1.5%2c0%2c3%2c0%2c4.5-0.1c6.4%2c9.2%2c15.1%2c17.1%2c23.9%2c24c-1.6%2c1.5-3.3%2c2.8-5.3%2c3.8c-1.5-1.2-3.9-2-8.3-2C-6.8%2c71.9-7.3%2c72.1-7.3%2c72.5z'/%3e %3c/g%3e %3c/g%3e %3c/g%3e%3c/g%3e%3c/svg%3e"
+2025-06-11T22:17:57: }
+2025-06-11T22:17:57: ✅ Browser closed.
+2025-06-11T22:17:57: 🔍 Processing agent data: {
+2025-06-11T22:17:57:   name: 'Shorecrest Towers',
+2025-06-11T22:17:57:   company: '3000 Ocean Parkway #8K',
+2025-06-11T22:17:57:   sourceAgentId: '898275',
+2025-06-11T22:17:57:   website: 'https://streeteasy.com/profile/898275',
+2025-06-11T22:17:57:   logoUrl: "data:image/svg+xml,%3c%3fxml version='1.0' encoding='utf-8'%3f%3e%3c!-- Generator: Adobe Illustrator 24.3.0%2c SVG Export Plug-In . SVG Version: 6.00 Build 0) --%3e%3csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 62 62' style='enable-background:new 0 0 62 62%3b' xml:space='preserve'%3e%3cstyle type='text/css'%3e .st0%7bfill:%23F5D9BD%3b%7d .st1%7bclip-path:url(%23SVGID_2_)%3b%7d .st2%7bfill:%23F5F5F5%3b%7d .st3%7bfill:%23CEF4FF%3b%7d .st4%7bfill:white%3b%7d .st5%7bfill:%23FF9A34%3b%7d .st6%7bfill:%23032765%3b%7d .st7%7bfill:%231876DB%3b%7d .st8%7bfill:%23A1A1A1%3b%7d .st9%7bfill:%23CDCDCD%3b%7d%3c/style%3e%3cg id='Layer_2_1_'%3e %3cg id='Layer_1-2'%3e %3ccircle class='st0' cx='31' cy='31' r='31'/%3e %3cg%3e %3cdefs%3e %3ccircle id='SVGID_1_' cx='31' cy='31' r='31'/%3e %3c/defs%3e %3cclipPath id='SVGID_2_'%3e %3cuse xlink:href='%23SVGID_1_' style='overflow:visible%3b'/%3e %3c/clipPath%3e %3cg class='st1'%3e %3crect x='-18.4' y='-12.2' class='st2' width='102.7' height='85.2'/%3e %3cpath class='st3' d='M54.1%2c130c0-0.1%2c0-0.2%2c0.1-0.3c0.7-3.1%2c1-6.3%2c1-9.6c0-5-1-10-3-14.6c-2.5-1.1-6.3-2.2-14.8-2.2 c-7.1%2c0-14.9%2c1.2-20.6%2c4.5v0.5c0%2c4.7-0.1%2c9.3-0.2%2c14c-3.9%2c14.3-11.9%2c38.9-26%2c57.4h39.2c3.2-5.9%2c6.9-12%2c10.4-18.2 c4.7%2c6.3%2c9.2%2c12.8%2c14.1%2c18.9l33.2-0.4C84.6%2c174.2%2c54.1%2c130%2c54.1%2c130z'/%3e %3cpath class='st4' d='M93.9%2c137.3l0.3-0.1l-2.4-5.2l-2.2-5.5c-0.1-0.7-0.2-2.4-0.8-2.8c-0.3-0.3-0.6-0.4-1-0.5l-0.2-0.4 l-16.9%2c2.7l0%2c0l-8.3%2c1.4l-6.4%2c1.1l-2.7%2c0.5c-4.2%2c0.7-7%2c4.6-6.5%2c8.8l1.1%2c8.3L65%2c143l5.7-0.8l23.9-3.2L93.9%2c137.3z'/%3e %3cpath class='st5' d='M93.8%2c139l-23.1%2c3.2L65%2c143l-17.2%2c2.4l0.8%2c6.3l0.6%2c4.5c0.6%2c4.4%2c4.6%2c7.4%2c8.9%2c6.9l17.9-2.4l6.8-0.9 c4.6-0.6%2c10.2-4.1%2c9.7-8.8L93.8%2c139z'/%3e %3cpath class='st6' d='M86.3%2c134.4c0%2c3.6-1.1%2c7.1-3.8%2c6.7c-2.8-0.4-4.7%2c1.9-7.6%2c1c-3-0.9-3.5-5.3-3.5-8.4c0-2.4%2c0.2-4.8%2c0.3-6.8 c0-0.8%2c0.1-1.5%2c0.1-2.1c-0.2-1.4-0.4-2.8-0.8-4.2c1-0.3%2c1.9-0.6%2c2.9-0.8c2.2-0.3%2c4.5-0.7%2c6.8-1.1c0.5%2c2.4%2c1.1%2c4.7%2c2%2c6.9 C84.2%2c129.3%2c86.3%2c131%2c86.3%2c134.4z'/%3e %3cpath class='st7' d='M52.3%2c105.5c-2.5-1.1-6.3-2.2-14.8-2.2c-7.1%2c0-14.9%2c1.2-20.6%2c4.5c0-3.6-0.1-6.7-0.2-9.4 c4.5-3.5%2c10.6-5.2%2c16.5-5.2c6.5%2c0%2c10.1%2c1.5%2c13.9%2c2.7c0%2c0.2%2c0%2c0.4%2c0%2c0.5C49.1%2c99.2%2c50.9%2c102.3%2c52.3%2c105.5z'/%3e %3cpath class='st8' d='M37.5%2c34.4c0.2%2c1.3%2c0.4%2c2.5%2c0.7%2c3.8c-3.6%2c1.3-7.1%2c3-10.3%2c5.1c-0.2-2-0.7-3.8-2.3-4.7 c-1.2%2c0.4-2.4%2c0.7-3.7%2c0.8c-4%2c0-3.6-4.3-4-7.2c-2.3-1-3.3-2.5-3.3-3.3c0-1.3%2c2.4-1.9%2c3.1-3.7c0.7-1.5%2c1.1-3.1%2c1.7-4.6 c0.5-0.1%2c1-0.1%2c1.5-0.2c3.2%2c0%2c2.5%2c2.9%2c4.8%2c2.9c1.4%2c0%2c2.5-1.2%2c3.7-1.2s2.6%2c1.1%2c2.6%2c3.4c0%2c1.3-0.3%2c2.8-0.4%2c4.2l0%2c0 c-0.2%2c0-0.3%2c0-0.5%2c0c-1.8%2c0-3.3%2c1.5-3.3%2c3.3c0%2c1.8%2c1.5%2c3.3%2c3.3%2c3.3c1.3%2c0%2c2.5-0.8%2c3-2c0.4%2c0.1%2c0.8%2c0.2%2c1.2%2c0.2 c0.6%2c0%2c1.3-0.2%2c1.8-0.5C37.3%2c34.2%2c37.4%2c34.3%2c37.5%2c34.4z M18.4%2c30.6c-0.4-0.6-0.8-1.5-1-1.5l0%2c0c-0.2%2c0-0.2%2c0.1-0.2%2c0.2 C17.2%2c29.7%2c17.9%2c30.3%2c18.4%2c30.6z'/%3e %3cpath class='st9' d='M37.5%2c34.4c-0.1-0.1-0.2-0.3-0.3-0.4c-0.6%2c0.3-1.2%2c0.5-1.8%2c0.5c-0.4%2c0-0.8-0.1-1.2-0.2 c0.2-0.4%2c0.3-0.8%2c0.3-1.3c0-1.6-1.2-3-2.8-3.2c0-1.4%2c0.4-2.9%2c0.4-4.2c0-2.3-1.4-3.4-2.6-3.4s-2.3%2c1.2-3.7%2c1.2 c-2.3%2c0-1.6-2.9-4.8-2.9c-0.5%2c0-1%2c0.1-1.5%2c0.2c-0.6%2c0.1-1.1%2c0.2-1.7%2c0.2c-1.5%2c0-3.2-1.1-3.2-2.6c0.1-1.6%2c1.4-2.8%2c3-2.7 c0%2c0%2c0.1%2c0%2c0.1%2c0c0.5%2c0%2c1%2c0.1%2c1.5%2c0.1c0-0.2%2c0-0.4%2c0-0.7c0-3.8%2c2.1-7%2c6.1-7c3.3%2c0%2c4.9%2c1.4%2c5.8%2c2.5c1.5-1.7%2c3.6-2.7%2c5.8-2.8 c3.2%2c0%2c4.9%2c2.6%2c4.9%2c5.2c0%2c0.4%2c0%2c0.7-0.1%2c1.1c0.2%2c0%2c0.5%2c0%2c0.7-0.1c2.9%2c0%2c4.5%2c2.4%2c4.5%2c5.3c0.1%2c1.6-0.5%2c3.1-1.6%2c4.3 c0.4%2c0.7%2c0.7%2c1.5%2c0.7%2c2.3c0%2c1.9-1%2c3.6-2.6%2c4.6c0.2%2c0.4%2c0.3%2c0.8%2c0.3%2c1.3c-0.1%2c2-1.7%2c3.7-3.7%2c3.9C38.9%2c35.7%2c38%2c35.2%2c37.5%2c34.4z'/%3e %3cpath class='st9' d='M34.5%2c33c0%2c0.5-0.1%2c0.9-0.3%2c1.3c-1.6-0.7-2.6-2.4-2.5-4.1v-0.4l0%2c0C33.3%2c30%2c34.5%2c31.4%2c34.5%2c33z'/%3e %3cpath class='st8' d='M34.2%2c34.3c-0.7%2c1.7-2.7%2c2.4-4.3%2c1.7s-2.4-2.7-1.7-4.3c0.5-1.2%2c1.7-1.9%2c3-1.9c0.2%2c0%2c0.3%2c0%2c0.5%2c0v0.4 C31.5%2c31.9%2c32.5%2c33.6%2c34.2%2c34.3z'/%3e %3cpath class='st8' d='M17.4%2c29.1c0.2%2c0%2c0.7%2c0.8%2c1%2c1.5c-0.5-0.2-1.3-0.8-1.3-1.2C17.1%2c29.3%2c17.2%2c29.2%2c17.4%2c29.1L17.4%2c29.1z'/%3e %3cpath class='st9' d='M38.2%2c38.2c0.5-0.2%2c1-0.3%2c1.5-0.4c2.7%2c0%2c5.8%2c4.3%2c8%2c8.1c2.3%2c0.3%2c5.1%2c0.6%2c7.4%2c2.8 c5.9%2c5.6%2c24.8%2c57.5%2c28.8%2c69.9c-2.8%2c0.3-5.7%2c0.8-8.6%2c1.2c-1.1%2c0.2-3.2%2c0.6-5.4%2c1c-2.8%2c0.6-5.5-1.2-6.1-4c0%2c0%2c0%2c0%2c0%2c0 c-0.8-4.6-2.1-9-3.8-13.3c-3.1-7-7.8-13.1-12-19.5c-0.3%2c4-0.7%2c7.9-1.1%2c11.9c-3.8-1.2-7.4-2.7-13.9-2.7c-5.8%2c0-12%2c1.7-16.5%2c5.2 c0-0.2%2c0-0.3%2c0-0.4c-0.3-5.3-1-10.7-2.2-15.9c-1-3.7-1.5-7.5-1.5-11.4c0-8.8%2c4-13.9%2c11-20.2c-0.1-0.6-0.2-1.3-0.2-1.9 c0-1.8%2c1.8-3.6%2c4.1-5.2C31.1%2c41.2%2c34.6%2c39.5%2c38.2%2c38.2z'/%3e %3cpath class='st4' d='M14.5%2c82c1.2%2c5.2%2c1.9%2c10.6%2c2.2%2c15.9C9.8%2c97.4%2c7%2c93.3%2c4.8%2c90l0%2c0c0.9-4%2c2.8-7.7%2c5.6-10.7 C11.8%2c80.2%2c13.1%2c81.1%2c14.5%2c82L14.5%2c82z'/%3e %3cpath class='st7' d='M9.1%2c78.6c0.5%2c0.2%2c0.9%2c0.5%2c1.4%2c0.8C7.7%2c82.4%2c5.7%2c86%2c4.8%2c90l0%2c0c-0.8-1.3-1.8-2.4-2.9-3.3 c-0.2-0.2-0.5-0.3-0.8-0.5c0.7-3.3%2c2.3-6.4%2c4.4-9C6.8%2c77.6%2c7.9%2c78.1%2c9.1%2c78.6z'/%3e %3cpath class='st6' d='M4.3%2c76.6c0.4%2c0.2%2c0.9%2c0.4%2c1.3%2c0.5c-2.2%2c2.6-3.7%2c5.7-4.4%2c9c-0.8-0.4-1.6-0.8-2.5-1.2 c0.1-0.7%2c0.2-1.4%2c0.2-2.2c0-3.6-2-3.8-2.7-5.4c0.4-0.5%2c0.7-1%2c1-1.5l-0.4-0.2c-2-1-4.2-1.9-4.2-3.2c0-0.4%2c0.5-0.6%2c1.3-0.6 c4.4%2c0%2c6.8%2c0.8%2c8.3%2c2C3.1%2c74.6%2c3.8%2c75.6%2c4.3%2c76.6z'/%3e %3cpath class='st6' d='M-1.1%2c82.9c0%2c0.7-0.1%2c1.5-0.2%2c2.2c-3.3-1.4-6.9-2.9-6.9-7.4c0-0.6%2c0-1.1%2c0.1-1.7c1.4%2c0.7%2c2.8%2c1.2%2c4.3%2c1.6 l0.1-0.1C-3.1%2c79.1-1.1%2c79.3-1.1%2c82.9z'/%3e %3cpath class='st4' d='M-3.1%2c75.8l0.4%2c0.2c-0.3%2c0.5-0.7%2c1-1%2c1.5l-0.1%2c0.1c-1.5-0.4-2.9-0.9-4.3-1.5c-11.6-5.3-26.9-20.5-30.3-30.1 h0.6C-28.9%2c58.3-18.2%2c71.6-3.1%2c75.8z'/%3e %3cpath class='st4' d='M-7.3%2c72.5c0%2c1.3%2c2.2%2c2.2%2c4.2%2c3.2c-15.1-4.1-25.8-17.5-34.8-29.9c0.8%2c0%2c1.6%2c0%2c2.4%2c0c4.9%2c0%2c9.8%2c0.4%2c14.7%2c0.4 c1.5%2c0%2c3%2c0%2c4.5-0.1c6.4%2c9.2%2c15.1%2c17.1%2c23.9%2c24c-1.6%2c1.5-3.3%2c2.8-5.3%2c3.8c-1.5-1.2-3.9-2-8.3-2C-6.8%2c71.9-7.3%2c72.1-7.3%2c72.5z'/%3e %3c/g%3e %3c/g%3e %3c/g%3e%3c/g%3e%3c/svg%3e"
+2025-06-11T22:17:57: }
+2025-06-11T22:18:00: 🔍 Found existing agents: [
+2025-06-11T22:18:00:   {
+2025-06-11T22:18:00:     id: 'yhcevq99ejiuitwjnrxtkrpc',
+2025-06-11T22:18:00:     name: 'Shorecrest Towers',
+2025-06-11T22:18:00:     email: null,
+2025-06-11T22:18:00:     profession: null,
+2025-06-11T22:18:00:     phone: null,
+2025-06-11T22:18:00:     company: '2940 Ocean Parkway #23O',
+2025-06-11T22:18:00:     website: 'https://streeteasy.com/profile/898275',
+2025-06-11T22:18:00:     logoUrl: "data:image/svg+xml,%3c%3fxml version='1.0' encoding='utf-8'%3f%3e%3c!-- Generator: Adobe Illustrator 24.3.0%2c SVG Export Plug-In . SVG Version: 6.00 Build 0) --%3e%3csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 62 62' style='enable-background:new 0 0 62 62%3b' xml:space='preserve'%3e%3cstyle type='text/css'%3e .st0%7bfill:%23F5D9BD%3b%7d .st1%7bclip-path:url(%23SVGID_2_)%3b%7d .st2%7bfill:%23F5F5F5%3b%7d .st3%7bfill:%23CEF4FF%3b%7d .st4%7bfill:white%3b%7d .st5%7bfill:%23FF9A34%3b%7d .st6%7bfill:%23032765%3b%7d .st7%7bfill:%231876DB%3b%7d .st8%7bfill:%23A1A1A1%3b%7d .st9%7bfill:%23CDCDCD%3b%7d%3c/style%3e%3cg id='Layer_2_1_'%3e %3cg id='Layer_1-2'%3e %3ccircle class='st0' cx='31' cy='31' r='31'/%3e %3cg%3e %3cdefs%3e %3ccircle id='SVGID_1_' cx='31' cy='31' r='31'/%3e %3c/defs%3e %3cclipPath id='SVGID_2_'%3e %3cuse xlink:href='%23SVGID_1_' style='overflow:visible%3b'/%3e %3c/clipPath%3e %3cg class='st1'%3e %3crect x='-18.4' y='-12.2' class='st2' width='102.7' height='85.2'/%3e %3cpath class='st3' d='M54.1%2c130c0-0.1%2c0-0.2%2c0.1-0.3c0.7-3.1%2c1-6.3%2c1-9.6c0-5-1-10-3-14.6c-2.5-1.1-6.3-2.2-14.8-2.2 c-7.1%2c0-14.9%2c1.2-20.6%2c4.5v0.5c0%2c4.7-0.1%2c9.3-0.2%2c14c-3.9%2c14.3-11.9%2c38.9-26%2c57.4h39.2c3.2-5.9%2c6.9-12%2c10.4-18.2 c4.7%2c6.3%2c9.2%2c12.8%2c14.1%2c18.9l33.2-0.4C84.6%2c174.2%2c54.1%2c130%2c54.1%2c130z'/%3e %3cpath class='st4' d='M93.9%2c137.3l0.3-0.1l-2.4-5.2l-2.2-5.5c-0.1-0.7-0.2-2.4-0.8-2.8c-0.3-0.3-0.6-0.4-1-0.5l-0.2-0.4 l-16.9%2c2.7l0%2c0l-8.3%2c1.4l-6.4%2c1.1l-2.7%2c0.5c-4.2%2c0.7-7%2c4.6-6.5%2c8.8l1.1%2c8.3L65%2c143l5.7-0.8l23.9-3.2L93.9%2c137.3z'/%3e %3cpath class='st5' d='M93.8%2c139l-23.1%2c3.2L65%2c143l-17.2%2c2.4l0.8%2c6.3l0.6%2c4.5c0.6%2c4.4%2c4.6%2c7.4%2c8.9%2c6.9l17.9-2.4l6.8-0.9 c4.6-0.6%2c10.2-4.1%2c9.7-8.8L93.8%2c139z'/%3e %3cpath class='st6' d='M86.3%2c134.4c0%2c3.6-1.1%2c7.1-3.8%2c6.7c-2.8-0.4-4.7%2c1.9-7.6%2c1c-3-0.9-3.5-5.3-3.5-8.4c0-2.4%2c0.2-4.8%2c0.3-6.8 c0-0.8%2c0.1-1.5%2c0.1-2.1c-0.2-1.4-0.4-2.8-0.8-4.2c1-0.3%2c1.9-0.6%2c2.9-0.8c2.2-0.3%2c4.5-0.7%2c6.8-1.1c0.5%2c2.4%2c1.1%2c4.7%2c2%2c6.9 C84.2%2c129.3%2c86.3%2c131%2c86.3%2c134.4z'/%3e %3cpath class='st7' d='M52.3%2c105.5c-2.5-1.1-6.3-2.2-14.8-2.2c-7.1%2c0-14.9%2c1.2-20.6%2c4.5c0-3.6-0.1-6.7-0.2-9.4 c4.5-3.5%2c10.6-5.2%2c16.5-5.2c6.5%2c0%2c10.1%2c1.5%2c13.9%2c2.7c0%2c0.2%2c0%2c0.4%2c0%2c0.5C49.1%2c99.2%2c50.9%2c102.3%2c52.3%2c105.5z'/%3e %3cpath class='st8' d='M37.5%2c34.4c0.2%2c1.3%2c0.4%2c2.5%2c0.7%2c3.8c-3.6%2c1.3-7.1%2c3-10.3%2c5.1c-0.2-2-0.7-3.8-2.3-4.7 c-1.2%2c0.4-2.4%2c0.7-3.7%2c0.8c-4%2c0-3.6-4.3-4-7.2c-2.3-1-3.3-2.5-3.3-3.3c0-1.3%2c2.4-1.9%2c3.1-3.7c0.7-1.5%2c1.1-3.1%2c1.7-4.6 c0.5-0.1%2c1-0.1%2c1.5-0.2c3.2%2c0%2c2.5%2c2.9%2c4.8%2c2.9c1.4%2c0%2c2.5-1.2%2c3.7-1.2s2.6%2c1.1%2c2.6%2c3.4c0%2c1.3-0.3%2c2.8-0.4%2c4.2l0%2c0 c-0.2%2c0-0.3%2c0-0.5%2c0c-1.8%2c0-3.3%2c1.5-3.3%2c3.3c0%2c1.8%2c1.5%2c3.3%2c3.3%2c3.3c1.3%2c0%2c2.5-0.8%2c3-2c0.4%2c0.1%2c0.8%2c0.2%2c1.2%2c0.2 c0.6%2c0%2c1.3-0.2%2c1.8-0.5C37.3%2c34.2%2c37.4%2c34.3%2c37.5%2c34.4z M18.4%2c30.6c-0.4-0.6-0.8-1.5-1-1.5l0%2c0c-0.2%2c0-0.2%2c0.1-0.2%2c0.2 C17.2%2c29.7%2c17.9%2c30.3%2c18.4%2c30.6z'/%3e %3cpath class='st9' d='M37.5%2c34.4c-0.1-0.1-0.2-0.3-0.3-0.4c-0.6%2c0.3-1.2%2c0.5-1.8%2c0.5c-0.4%2c0-0.8-0.1-1.2-0.2 c0.2-0.4%2c0.3-0.8%2c0.3-1.3c0-1.6-1.2-3-2.8-3.2c0-1.4%2c0.4-2.9%2c0.4-4.2c0-2.3-1.4-3.4-2.6-3.4s-2.3%2c1.2-3.7%2c1.2 c-2.3%2c0-1.6-2.9-4.8-2.9c-0.5%2c0-1%2c0.1-1.5%2c0.2c-0.6%2c0.1-1.1%2c0.2-1.7%2c0.2c-1.5%2c0-3.2-1.1-3.2-2.6c0.1-1.6%2c1.4-2.8%2c3-2.7 c0%2c0%2c0.1%2c0%2c0.1%2c0c0.5%2c0%2c1%2c0.1%2c1.5%2c0.1c0-0.2%2c0-0.4%2c0-0.7c0-3.8%2c2.1-7%2c6.1-7c3.3%2c0%2c4.9%2c1.4%2c5.8%2c2.5c1.5-1.7%2c3.6-2.7%2c5.8-2.8 c3.2%2c0%2c4.9%2c2.6%2c4.9%2c5.2c0%2c0.4%2c0%2c0.7-0.1%2c1.1c0.2%2c0%2c0.5%2c0%2c0.7-0.1c2.9%2c0%2c4.5%2c2.4%2c4.5%2c5.3c0.1%2c1.6-0.5%2c3.1-1.6%2c4.3 c0.4%2c0.7%2c0.7%2c1.5%2c0.7%2c2.3c0%2c1.9-1%2c3.6-2.6%2c4.6c0.2%2c0.4%2c0.3%2c0.8%2c0.3%2c1.3c-0.1%2c2-1.7%2c3.7-3.7%2c3.9C38.9%2c35.7%2c38%2c35.2%2c37.5%2c34.4z'/%3e %3cpath class='st9' d='M34.5%2c33c0%2c0.5-0.1%2c0.9-0.3%2c1.3c-1.6-0.7-2.6-2.4-2.5-4.1v-0.4l0%2c0C33.3%2c30%2c34.5%2c31.4%2c34.5%2c33z'/%3e %3cpath class='st8' d='M34.2%2c34.3c-0.7%2c1.7-2.7%2c2.4-4.3%2c1.7s-2.4-2.7-1.7-4.3c0.5-1.2%2c1.7-1.9%2c3-1.9c0.2%2c0%2c0.3%2c0%2c0.5%2c0v0.4 C31.5%2c31.9%2c32.5%2c33.6%2c34.2%2c34.3z'/%3e %3cpath class='st8' d='M17.4%2c29.1c0.2%2c0%2c0.7%2c0.8%2c1%2c1.5c-0.5-0.2-1.3-0.8-1.3-1.2C17.1%2c29.3%2c17.2%2c29.2%2c17.4%2c29.1L17.4%2c29.1z'/%3e %3cpath class='st9' d='M38.2%2c38.2c0.5-0.2%2c1-0.3%2c1.5-0.4c2.7%2c0%2c5.8%2c4.3%2c8%2c8.1c2.3%2c0.3%2c5.1%2c0.6%2c7.4%2c2.8 c5.9%2c5.6%2c24.8%2c57.5%2c28.8%2c69.9c-2.8%2c0.3-5.7%2c0.8-8.6%2c1.2c-1.1%2c0.2-3.2%2c0.6-5.4%2c1c-2.8%2c0.6-5.5-1.2-6.1-4c0%2c0%2c0%2c0%2c0%2c0 c-0.8-4.6-2.1-9-3.8-13.3c-3.1-7-7.8-13.1-12-19.5c-0.3%2c4-0.7%2c7.9-1.1%2c11.9c-3.8-1.2-7.4-2.7-13.9-2.7c-5.8%2c0-12%2c1.7-16.5%2c5.2 c0-0.2%2c0-0.3%2c0-0.4c-0.3-5.3-1-10.7-2.2-15.9c-1-3.7-1.5-7.5-1.5-11.4c0-8.8%2c4-13.9%2c11-20.2c-0.1-0.6-0.2-1.3-0.2-1.9 c0-1.8%2c1.8-3.6%2c4.1-5.2C31.1%2c41.2%2c34.6%2c39.5%2c38.2%2c38.2z'/%3e %3cpath class='st4' d='M14.5%2c82c1.2%2c5.2%2c1.9%2c10.6%2c2.2%2c15.9C9.8%2c97.4%2c7%2c93.3%2c4.8%2c90l0%2c0c0.9-4%2c2.8-7.7%2c5.6-10.7 C11.8%2c80.2%2c13.1%2c81.1%2c14.5%2c82L14.5%2c82z'/%3e %3cpath class='st7' d='M9.1%2c78.6c0.5%2c0.2%2c0.9%2c0.5%2c1.4%2c0.8C7.7%2c82.4%2c5.7%2c86%2c4.8%2c90l0%2c0c-0.8-1.3-1.8-2.4-2.9-3.3 c-0.2-0.2-0.5-0.3-0.8-0.5c0.7-3.3%2c2.3-6.4%2c4.4-9C6.8%2c77.6%2c7.9%2c78.1%2c9.1%2c78.6z'/%3e %3cpath class='st6' d='M4.3%2c76.6c0.4%2c0.2%2c0.9%2c0.4%2c1.3%2c0.5c-2.2%2c2.6-3.7%2c5.7-4.4%2c9c-0.8-0.4-1.6-0.8-2.5-1.2 c0.1-0.7%2c0.2-1.4%2c0.2-2.2c0-3.6-2-3.8-2.7-5.4c0.4-0.5%2c0.7-1%2c1-1.5l-0.4-0.2c-2-1-4.2-1.9-4.2-3.2c0-0.4%2c0.5-0.6%2c1.3-0.6 c4.4%2c0%2c6.8%2c0.8%2c8.3%2c2C3.1%2c74.6%2c3.8%2c75.6%2c4.3%2c76.6z'/%3e %3cpath class='st6' d='M-1.1%2c82.9c0%2c0.7-0.1%2c1.5-0.2%2c2.2c-3.3-1.4-6.9-2.9-6.9-7.4c0-0.6%2c0-1.1%2c0.1-1.7c1.4%2c0.7%2c2.8%2c1.2%2c4.3%2c1.6 l0.1-0.1C-3.1%2c79.1-1.1%2c79.3-1.1%2c82.9z'/%3e %3cpath class='st4' d='M-3.1%2c75.8l0.4%2c0.2c-0.3%2c0.5-0.7%2c1-1%2c1.5l-0.1%2c0.1c-1.5-0.4-2.9-0.9-4.3-1.5c-11.6-5.3-26.9-20.5-30.3-30.1 h0.6C-28.9%2c58.3-18.2%2c71.6-3.1%2c75.8z'/%3e %3cpath class='st4' d='M-7.3%2c72.5c0%2c1.3%2c2.2%2c2.2%2c4.2%2c3.2c-15.1-4.1-25.8-17.5-34.8-29.9c0.8%2c0%2c1.6%2c0%2c2.4%2c0c4.9%2c0%2c9.8%2c0.4%2c14.7%2c0.4 c1.5%2c0%2c3%2c0%2c4.5-0.1c6.4%2c9.2%2c15.1%2c17.1%2c23.9%2c24c-1.6%2c1.5-3.3%2c2.8-5.3%2c3.8c-1.5-1.2-3.9-2-8.3-2C-6.8%2c71.9-7.3%2c72.1-7.3%2c72.5z'/%3e %3c/g%3e %3c/g%3e %3c/g%3e%3c/g%3e%3c/svg%3e",
+2025-06-11T22:18:00:     source: 'STREETEASY',
+2025-06-11T22:18:00:     sourceAgentId: '898275',
+2025-06-11T22:18:00:     createdAt: 2025-06-11T10:44:41.234Z,
+2025-06-11T22:18:00:     updatedAt: 2025-06-11T10:44:46.133Z
+2025-06-11T22:18:00:   }
+2025-06-11T22:18:00: ]
+2025-06-11T22:18:00: Found 11 unique listings and 0 duplicates on page 4
+2025-06-11T22:18:00: Scraping offset 50 (page 6)...
+2025-06-11T22:18:03: Days on Market: 77
+2025-06-11T22:18:03: Availability: Available now
+2025-06-11T22:18:04: ✅ Listing is active
+2025-06-11T22:18:04: 
+2025-06-11T22:18:04: Checking listing: Park Slope
+2025-06-11T22:18:11: ✅ Updated existing agent: yhcevq99ejiuitwjnrxtkrpc with source ID: 898275
+2025-06-11T22:18:12: ✅ Updated listing wlgzdgpgm3jc1d36rff88nlg with agent yhcevq99ejiuitwjnrxtkrpc
+2025-06-11T22:18:12: ⏳ Waiting 30 seconds before next request...
+2025-06-11T22:18:13: Days on Market: 58
+2025-06-11T22:18:13: Availability: Available now
+2025-06-11T22:18:13: ✅ Listing is active
+2025-06-11T22:18:13: 
+2025-06-11T22:18:13: Checking listing: Flatbush
+2025-06-11T22:18:16: Found 11 unique listings and 0 duplicates on page 5
+2025-06-11T22:18:16: Scraping offset 60 (page 7)...
+2025-06-11T22:18:17: Navigation retry 2 failed for https://www.spareroom.com/roommate/room_for_rent.pl?flatshare_id=102794566&search_id=500076618236&page=6
+2025-06-11T22:18:32: 
+2025-06-11T22:18:32: Stopping scraper cron job...
+2025-06-14T16:52:50: Scraping offset 0 (page 1)...
+2025-06-14T16:52:51: Scraper cron jobs started.
+2025-06-14T16:52:51: Main scrapers will run every 12 hours.
+2025-06-14T16:52:51: Front-end scrapers will run every 12.5 hours.
+2025-06-14T16:52:51: Listing checks will run daily at 9:00 AM.
+2025-06-14T16:52:51: Next main run scheduled for: 6/15/2025, 4:00:00 AM
+2025-06-14T16:52:51: Next front-end run scheduled for: 6/15/2025, 4:30:00 AM
+2025-06-14T16:52:51: Next listing checks run scheduled for: 6/15/2025, 9:00:00 AM
+2025-06-14T16:52:51: Time until next main run: 667 minutes
+2025-06-14T16:52:51: Time until next front-end run: 697 minutes
+2025-06-14T16:52:51: Time until next listing checks run: 967 minutes
+2025-06-14T16:52:51: Scraper cron job started. Press Ctrl+C to stop.
+2025-06-14T16:52:52: Storing listings: [
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "North Bergen",
+2025-06-14T16:52:52:     "price": 2750,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/8600-blvd-east-north_bergen/5c",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/e8f0aef8054f929c75891a2fc9e3aa72-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "8600 Blvd East",
+2025-06-14T16:52:52:     "latitude": 40.80232,
+2025-06-14T16:52:52:     "longitude": -73.99555,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Jersey City",
+2025-06-14T16:52:52:     "price": 2600,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/81-bergen-avenue-jersey_city/3",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/22557d0e51b919d3d7a17a49a8590c21-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "81 Bergen Avenue",
+2025-06-14T16:52:52:     "latitude": 40.706,
+2025-06-14T16:52:52:     "longitude": -74.0872,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 2200,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 0,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4680645",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/cffb56ce6529d24564ce424d0e32beb7-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "267 Forrest Street",
+2025-06-14T16:52:52:     "latitude": 40.712093,
+2025-06-14T16:52:52:     "longitude": -74.07596,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "West New York",
+2025-06-14T16:52:52:     "price": 2300,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-lux-condominiums/307",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/c39ae51ce9a834b2e9388360dd9d9e92-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "407 56th Street",
+2025-06-14T16:52:52:     "latitude": 40.785454,
+2025-06-14T16:52:52:     "longitude": -74.018845,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Newport",
+2025-06-14T16:52:52:     "price": 3710,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/atlantic-at-newport/1008",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/11a37d1748c0974efaa69eb84c4b9930-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "31 River Court",
+2025-06-14T16:52:52:     "latitude": 40.7271,
+2025-06-14T16:52:52:     "longitude": -74.0316,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Journal Square",
+2025-06-14T16:52:52:     "price": 1500,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/55-tonnelle-avenue-jersey_city/606",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/50ffb5179171ec05ff91fbcdd28f5337-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "55 Tonnelle Avenue",
+2025-06-14T16:52:52:     "latitude": 40.73254,
+2025-06-14T16:52:52:     "longitude": -74.06724,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Union City",
+2025-06-14T16:52:52:     "price": 2750,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-altessa/906",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/df1420616b23b43f4b0e0e96e8fcb2ec-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "809-815 22nd Street",
+2025-06-14T16:52:52:     "latitude": 40.7683,
+2025-06-14T16:52:52:     "longitude": -74.0379,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Union City",
+2025-06-14T16:52:52:     "price": 2825,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-altessa/1405",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/69915befeb8182b708afe2dbaa3e81f9-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "809-815 22nd Street",
+2025-06-14T16:52:52:     "latitude": 40.7683,
+2025-06-14T16:52:52:     "longitude": -74.0379,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Woodhaven",
+2025-06-14T16:52:52:     "price": 1900,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/86_02-forest-parkway-woodhaven/1c",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/d77b2c63475bff8b07a594cad573ccba-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "86-02 Forest Parkway",
+2025-06-14T16:52:52:     "latitude": 40.69345,
+2025-06-14T16:52:52:     "longitude": -73.861786,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 3500,
+2025-06-14T16:52:52:     "bedrooms": 5,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4704852",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/3027e338cb32aacfa34bbe7381287f04-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "17 Claremont Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7069,
+2025-06-14T16:52:52:     "longitude": -74.074,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Midtown",
+2025-06-14T16:52:52:     "price": 25985,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/7-w-57/17",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/b080eb7f27cc242a7547253ded2a84ea-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "7 West 57th Street",
+2025-06-14T16:52:52:     "latitude": 40.763523,
+2025-06-14T16:52:52:     "longitude": -73.974556,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2800,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/416",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/3a854ee2d69a739f83fdbac34f374098-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1 Flagship Street",
+2025-06-14T16:52:52:     "latitude": 40.669823,
+2025-06-14T16:52:52:     "longitude": -74.10024,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2600,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/409",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/38d3fa894053b9d2974ab3b9ff67d2ea-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1 Flagship Street",
+2025-06-14T16:52:52:     "latitude": 40.669823,
+2025-06-14T16:52:52:     "longitude": -74.10024,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 3400,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/417",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/9ec33d5c4093b415841d3859a63acb00-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1 Flagship Street",
+2025-06-14T16:52:52:     "latitude": 40.669823,
+2025-06-14T16:52:52:     "longitude": -74.10024,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2600,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/414",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/eabb83f712b13391f059c565af52d3f6-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1 Flagship Street",
+2025-06-14T16:52:52:     "latitude": 40.669823,
+2025-06-14T16:52:52:     "longitude": -74.10024,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2600,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/1-flagship-street-bayonne/319",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/fe0b218f43a7c68727c7b77e79aeac9a-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1 Flagship Street",
+2025-06-14T16:52:52:     "latitude": 40.669823,
+2025-06-14T16:52:52:     "longitude": -74.10024,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Kew Gardens",
+2025-06-14T16:52:52:     "price": 2850,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/83_09-lefferts-boulevard-kew_gardens/2b",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/dcd585b2b5bc0ade9e4d29b6e6a48a0d-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "83-09 Lefferts Boulevard",
+2025-06-14T16:52:52:     "latitude": 40.705814,
+2025-06-14T16:52:52:     "longitude": -73.83138,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "West New York",
+2025-06-14T16:52:52:     "price": 11000,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/nine-on-the-hudson/517",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/58d708d3ba205eca9a2ec907142695b2-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "9 Avenue at Port Imperial",
+2025-06-14T16:52:52:     "latitude": 40.78404,
+2025-06-14T16:52:52:     "longitude": -74.00612,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Union City",
+2025-06-14T16:52:52:     "price": 7750,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4693678",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/89ca8e96aff8099e7b19709cdfb8186f-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "821 Summit Avenue",
+2025-06-14T16:52:52:     "latitude": 40.759445,
+2025-06-14T16:52:52:     "longitude": -74.04345,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "North Bergen",
+2025-06-14T16:52:52:     "price": 2900,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52: ttps://streeteasy.com/building/1501-72-street-north_bergen/2",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/2127f5420ceee439546692b9a1ef8c7d-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1501 72nd Street",
+2025-06-14T16:52:52:     "latitude": 40.801052,
+2025-06-14T16:52:52:     "longitude": -74.0187,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Journal Square",
+2025-06-14T16:52:52:     "price": 3800,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/26-stagg-street-jersey_city/2",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/1b5bc3799acf20d701642e0bcac1efcb-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "26 Stagg Street",
+2025-06-14T16:52:52:     "latitude": 40.742725,
+2025-06-14T16:52:52:     "longitude": -74.06102,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Journal Square",
+2025-06-14T16:52:52:     "price": 4000,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4404945",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/39aaae63bbb57b940b412207986d1c2a-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "26 Stagg Street",
+2025-06-14T16:52:52:     "latitude": 40.742725,
+2025-06-14T16:52:52:     "longitude": -74.06102,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2857,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/614",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/f3b9b1ac2b0d8643b037865fc15f7cbf-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "260 Avenue East",
+2025-06-14T16:52:52:     "latitude": 40.662266,
+2025-06-14T16:52:52:     "longitude": -74.116165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2686,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/506",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/ebb5434c9d57bb73eb0ba50f66ca5878-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "260 Avenue East",
+2025-06-14T16:52:52:     "latitude": 40.662266,
+2025-06-14T16:52:52:     "longitude": -74.116165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2857,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/604",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/184e424d57264b5cc3423cadc5c52721-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "260 Avenue East",
+2025-06-14T16:52:52:     "latitude": 40.662266,
+2025-06-14T16:52:52:     "longitude": -74.116165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2686,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/315",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/0d8bd539f68a5a40a0e2f99cd232c1cd-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "260 Avenue East",
+2025-06-14T16:52:52:     "latitude": 40.662266,
+2025-06-14T16:52:52:     "longitude": -74.116165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2429,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/260-avenue-east-bayonne/203",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/c752b2596abd7c0fb9911b9c32d9abc4-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "260 Avenue East",
+2025-06-14T16:52:52:     "latitude": 40.662266,
+2025-06-14T16:52:52:     "longitude": -74.116165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "The Heights",
+2025-06-14T16:52:52:     "price": 2500,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/3539-john-f-kennedy-boulevard-jersey_city/3r",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/37f43e44d8e84e67727986807f3285b7-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "3539 John F Kennedy Boulevard",
+2025-06-14T16:52:52:     "latitude": 40.752823,
+2025-06-14T16:52:52:     "longitude": -74.05244,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 3353,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-ashton/318",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/e1bc6006e02a29f2b0b5d817283ae74e-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "2 Ash Street",
+2025-06-14T16:52:52:     "latitude": 40.714073,
+2025-06-14T16:52:52:     "longitude": -74.05636,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 3189,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-ashton/216",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/37dd38c997d607cb3b049a527a4273fe-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "2 Ash Street",
+2025-06-14T16:52:52:     "latitude": 40.714073,
+2025-06-14T16:52:52:     "longitude": -74.05636,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "St. Albans",
+2025-06-14T16:52:52:     "price": 1900,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/112_19-farmers-boulevard-saint_albans/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/f0ce60dbd5a1a28d3963eb567f879e3f-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "112-19 Farmers Boulevard",
+2025-06-14T16:52:52:     "latitude": 40.70042,
+2025-06-14T16:52:52:     "longitude": -73.76356,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "McGinley Square",
+2025-06-14T16:52:52:     "price": 2300,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/237-summit-avenue-jersey_city/3",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/79b1b6d7ba8b07b1489719031639dbf5-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "237 Summit Avenue",
+2025-06-14T16:52:52:     "latitude": 40.723537,
+2025-06-14T16:52:52:     "longitude": -74.06588,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Fresh Meadows",
+2025-06-14T16:52:52:     "price": 2695,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/189_04-64th-avenue-fresh_meadows/2l",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/f8fa9df9e36ae3079fff69b22076edae-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "189-04 64th Avenue",
+2025-06-14T16:52:52:     "latitude": 40.73933,
+2025-06-14T16:52:52:     "longitude": -73.78319,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Hoboken",
+2025-06-14T16:52:52:     "price": 2300,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/356-1-street-hoboken/1r",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/6aee733e6dd2097652c329da981fc8a0-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "356 1st Street",
+2025-06-14T16:52:52:     "latitude": 40.7383,
+2025-06-14T16:52:52:     "longitude": -74.036,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Newport",
+2025-06-14T16:52:52:     "price": 4200,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/45-river-drive-south-jersey_city/2703",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/3502a2da9556096c7ca8b3a7813b9326-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "45 River Dr South",
+2025-06-14T16:52:52:     "latitude": 40.7282,
+2025-06-14T16:52:52:     "longitude": -74.032,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Journal Square",
+2025-06-14T16:52:52:     "price": 2550,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/211-baldwin-avenue-jersey_city/601",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/f90cc67da995bb18298a758561fe27d6-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "211 Baldwin Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7295,
+2025-06-14T16:52:52:     "longitude": -74.0597,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Journal Square",
+2025-06-14T16:52:52:     "price": 2550,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/211-baldwin-avenue-jersey_city/rental/4509233",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/8a5f31c74941f2776328b0b663f9b090-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "211 Baldwin Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7295,
+2025-06-14T16:52:52:     "longitude": -74.0597,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Journal Square",
+2025-06-14T16:52:52:     "price": 2550,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/211-baldwin-avenue-jersey_city/606",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/2cc61aaec2d6b4332eab8be0a483fbf0-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "211 Baldwin Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7295,
+2025-06-14T16:52:52:     "longitude": -74.0597,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Journal Square",
+2025-06-14T16:52:52:     "price": 2600,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52: /building/211-baldwin-avenue-jersey_city/rental/4550323",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/a51987d244a5548fea3c10df08d83ffb-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "211 Baldwin Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7295,
+2025-06-14T16:52:52:     "longitude": -74.0597,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Upper West Side",
+2025-06-14T16:52:52:     "price": 2600,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/332-west-83-rd-street-house/1r",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/fe8d418df03c2bd1c1d35cc2e7a88ab8-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "332 West 83rd Street",
+2025-06-14T16:52:52:     "latitude": 40.787437,
+2025-06-14T16:52:52:     "longitude": -73.98084,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Midtown",
+2025-06-14T16:52:52:     "price": 11900,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/metropolitan-tower-condominium/42c",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/b33db062ad5d23ad95e57d86c23bfe3f-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "146 West 57th Street",
+2025-06-14T16:52:52:     "latitude": 40.7647,
+2025-06-14T16:52:52:     "longitude": -73.9793,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Hoboken",
+2025-06-14T16:52:52:     "price": 3870,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/418-monroe-street-hoboken/c",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/1233e242dce87e3db905b7b52db78d38-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "418 Monroe Street",
+2025-06-14T16:52:52:     "latitude": 40.74362,
+2025-06-14T16:52:52:     "longitude": -74.03895,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Lenox Hill",
+2025-06-14T16:52:52:     "price": 30000,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/sherry-netherland/1501",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/0740d5c3b8ad7fbfb907c17a42e46f63-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "781 5th Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7643,
+2025-06-14T16:52:52:     "longitude": -73.9725,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Lenox Hill",
+2025-06-14T16:52:52:     "price": 18000,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/sherry-netherland/611",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/d5a3e9ac86793464a308e80bc495989b-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "781 5th Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7643,
+2025-06-14T16:52:52:     "longitude": -73.9725,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Greenpoint",
+2025-06-14T16:52:52:     "price": 5250,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/239-banker-street-brooklyn/3n",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/ece23600a6daaec94fde098faf2b218b-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "239 Banker Street",
+2025-06-14T16:52:52:     "latitude": 40.726364,
+2025-06-14T16:52:52:     "longitude": -73.95597,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Greenpoint",
+2025-06-14T16:52:52:     "price": 5300,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/239-banker-street-brooklyn/4o",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/e80a34d063c9ec4e6e16406847bfb11d-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "239 Banker Street",
+2025-06-14T16:52:52:     "latitude": 40.726364,
+2025-06-14T16:52:52:     "longitude": -73.95597,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Union City",
+2025-06-14T16:52:52:     "price": 2750,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/119-peter-st-union_city/308",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/b8dabf2bc284e30ecb3b2c799b7e08f0-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "119 Peter Street",
+2025-06-14T16:52:52:     "latitude": 40.77016,
+2025-06-14T16:52:52:     "longitude": -74.0245,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Lenox Hill",
+2025-06-14T16:52:52:     "price": 4900,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-promenade/20a",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/cd78aae97fb8407c25d3b17c522c8bb7-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "530 East 76th Street",
+2025-06-14T16:52:52:     "latitude": 40.7682,
+2025-06-14T16:52:52:     "longitude": -73.9501,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "North Bergen",
+2025-06-14T16:52:52:     "price": 4200,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/1448-37-street-north_bergen/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/de9e5c1f3badcf31c1b311cc176af673-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1448 37th Street",
+2025-06-14T16:52:52:     "latitude": 40.778168,
+2025-06-14T16:52:52:     "longitude": -74.03412,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Paulus Hook",
+2025-06-14T16:52:52:     "price": 4100,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/253-washington-street-jersey_city/702",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/55f67bffdeff979f0d0acffe7159522c-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "253 Washington Street",
+2025-06-14T16:52:52:     "latitude": 40.7163,
+2025-06-14T16:52:52:     "longitude": -74.0375,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "McGinley Square",
+2025-06-14T16:52:52:     "price": 2950,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/13-boland-street-jersey_city/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/455ac448e3766652677ef29d56a44142-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "13 Boland Street",
+2025-06-14T16:52:52:     "latitude": 40.725,
+2025-06-14T16:52:52:     "longitude": -74.0697,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2700,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/250-avenue-e-bayonne/609",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/678b7d9f8c2969b970eac9c1206f6609-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "250 Avenue East",
+2025-06-14T16:52:52:     "latitude": 40.662037,
+2025-06-14T16:52:52:     "longitude": -74.11652,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2700,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/250-avenue-e-bayonne/607",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/0608899a9f7b0fa04fc90e79c1e62a5f-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "250 Avenue East",
+2025-06-14T16:52:52:     "latitude": 40.662037,
+2025-06-14T16:52:52:     "longitude": -74.11652,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Forest Hills",
+2025-06-14T16:52:52:     "price": 2250,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/108_25-72-avenue-forest_hills/2c",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/61d3882893a0377a3b7a2451536d09dc-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "108-25 72nd Avenue",
+2025-06-14T16:52:52:     "latitude": 40.720215,
+2025-06-14T16:52:52:     "longitude": -73.84242,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Belmont",
+2025-06-14T16:52:52:     "price": 3666,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/2503-hughes-avenue-bronx/1a",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/fe9e19047149d839a00176ad212efa63-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "2503 Hughes Avenue",
+2025-06-14T16:52:52:     "latitude": 40.85764,
+2025-06-14T16:52:52:     "longitude": -73.88511,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Belmont",
+2025-06-14T16:52:52:     "price": 4800,
+2025-06-14T16:52:52:     "bedrooms": 4,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/2503-hughes-avenue-bronx/4a",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/1c0f478eb65e9158720621da1f3587ee-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "2503 Hughes Avenue",
+2025-06-14T16:52:52:     "latitude": 40.85764,
+2025-06-14T16:52:52:     "longitude": -73.88511,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Union City",
+2025-06-14T16:52:52:     "price": 3000,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4691858",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/bf085d7396cb2f3291aa6eeb2bafea1c-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "2025 New York Avenue",
+2025-06-14T16:52:52:     "latitude": 40.765213,
+2025-06-14T16:52:52:     "longitude": -74.03282,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "McGinley Square",
+2025-06-14T16:52:52:     "price": 2900,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/266-fairmount-avenue-jersey_city/2",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52: "https://photos.zillowstatic.com/fp/76a69ec0858a2114ff0bfef74116a659-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "266 Fairmount Avenue",
+2025-06-14T16:52:52:     "latitude": 40.72388,
+2025-06-14T16:52:52:     "longitude": -74.068954,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2150,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/618-broadway-bayonne/5",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/3a1eda116551da0caffab4437feb746b-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "618 Broadway",
+2025-06-14T16:52:52:     "latitude": 40.668026,
+2025-06-14T16:52:52:     "longitude": -74.11442,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "West New York",
+2025-06-14T16:52:52:     "price": 3800,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/573-67-street-west_new_york/2",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/4e35111302b6c00b5f4937cee5e9c621-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "573 67th Street",
+2025-06-14T16:52:52:     "latitude": 40.795,
+2025-06-14T16:52:52:     "longitude": -74.0148,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Jersey City",
+2025-06-14T16:52:52:     "price": 2200,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/213-martin-luther-king-boulevard-jersey_city/rental/4622947",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/309be506c8163e3c50b1dbc837940c4e-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "213 Martin Luther King Boulevard",
+2025-06-14T16:52:52:     "latitude": 40.70692,
+2025-06-14T16:52:52:     "longitude": -74.08393,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "East New York",
+2025-06-14T16:52:52:     "price": 3500,
+2025-06-14T16:52:52:     "bedrooms": 5,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/1108-blake-avenue-brooklyn/3",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/da0c57a9c3f7c0cbf42eed2fdf4c79c3-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1108 Blake Avenue",
+2025-06-14T16:52:52:     "latitude": 40.67025,
+2025-06-14T16:52:52:     "longitude": -73.87712,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Cliffside Park",
+2025-06-14T16:52:52:     "price": 3550,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/2305",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/4b85ded9edd7ed0b8c419f0fee6cd1b1-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "197 Gorge Road",
+2025-06-14T16:52:52:     "latitude": 40.811195,
+2025-06-14T16:52:52:     "longitude": -73.992165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Cliffside Park",
+2025-06-14T16:52:52:     "price": 3335,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/1106",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/04681a83fbdb2e2715cb8637d1cca07d-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "197 Gorge Road",
+2025-06-14T16:52:52:     "latitude": 40.811195,
+2025-06-14T16:52:52:     "longitude": -73.992165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Cliffside Park",
+2025-06-14T16:52:52:     "price": 5050,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 3,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/506",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/f0405fa651973769ac2031c2e4d202ae-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "197 Gorge Road",
+2025-06-14T16:52:52:     "latitude": 40.811195,
+2025-06-14T16:52:52:     "longitude": -73.992165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Cliffside Park",
+2025-06-14T16:52:52:     "price": 4388,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/1004",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/b668a2db02dab319e8841e5cc248efe0-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "197 Gorge Road",
+2025-06-14T16:52:52:     "latitude": 40.811195,
+2025-06-14T16:52:52:     "longitude": -73.992165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Cliffside Park",
+2025-06-14T16:52:52:     "price": 3300,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/riello-99-gorge-road-edgewater/1602",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/489328c39887703b071e702744e0f20d-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "197 Gorge Road",
+2025-06-14T16:52:52:     "latitude": 40.811195,
+2025-06-14T16:52:52:     "longitude": -73.992165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Waterfront",
+2025-06-14T16:52:52:     "price": 4100,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4597215",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://placehold.co/600x400/e2e8f0/1e293b?text=No+Image+Available"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "220 9th Street",
+2025-06-14T16:52:52:     "latitude": 40.72833,
+2025-06-14T16:52:52:     "longitude": -74.04308,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Laurelton",
+2025-06-14T16:52:52:     "price": 2300,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/134_29-218-street-springfield_gardens/b4",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/3e4801ad0e5e4c42d70db95785f3d610-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "134-29 218th Street",
+2025-06-14T16:52:52:     "latitude": 40.678932,
+2025-06-14T16:52:52:     "longitude": -73.75165,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Union City",
+2025-06-14T16:52:52:     "price": 2150,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/613-12-street-union_city/2",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/313175b307bd691b6ae79ff337ce8fd1-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "613 12th Street",
+2025-06-14T16:52:52:     "latitude": 40.76008,
+2025-06-14T16:52:52:     "longitude": -74.03977,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "North Bergen",
+2025-06-14T16:52:52:     "price": 3800,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/8621-churchill-road-north_bergen/6c",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/33665523ff2f61ff3dd1923a813f9da2-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "8621 Churchill Road",
+2025-06-14T16:52:52:     "latitude": 40.802895,
+2025-06-14T16:52:52:     "longitude": -73.99389,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Central Harlem",
+2025-06-14T16:52:52:     "price": 5200,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/6w126-6-west-126th-street-new_york/6hh",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/322458509dcaa6e43009f5e4d2b6fb4f-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "6 West 126th Street",
+2025-06-14T16:52:52:     "latitude": 40.807217,
+2025-06-14T16:52:52:     "longitude": -73.94257,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Central Harlem",
+2025-06-14T16:52:52:     "price": 3100,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/6w126-6-west-126th-street-new_york/5l",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/c15270d012bbd111938275b5f59cd487-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "6 West 126th Street",
+2025-06-14T16:52:52:     "latitude": 40.807217,
+2025-06-14T16:52:52:     "longitude": -73.94257,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Mott Haven",
+2025-06-14T16:52:52:     "price": 3200,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/445-gerard-avenue-bronx/w715",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/3dabb201b0d8f87a176cebacd13aaac4-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "445 Gerard Avenue",
+2025-06-14T16:52:52:     "latitude": 40.817543,
+2025-06-14T16:52:52:     "longitude": -73.93009,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 2140,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/61-virginia-avenue-jersey_city/103",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/a7d9142535869901d0986a33db321ef5-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "61 Virginia Avenue",
+2025-06-14T16:52:52:     "latitude": 40.712532,
+2025-06-14T16:52:52:     "longitude": -74.07811,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 2750,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/126-orient-avenue-jersey_city/rental/4663907",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/34fb68c6da1c6ee3d45b9b4f541b2b08-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "126 Orient Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7116,
+2025-06-14T16:52:52:     "longitude": -74.0814,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Waterfront",
+2025-06-14T16:52:52:     "price": 4150,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52: ://streeteasy.com/building/hamilton-square-condominiums/815",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/ee76c77ed3cd64717415cf6909ea8abc-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "232 Pavonia Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7275,
+2025-06-14T16:52:52:     "longitude": -74.0431,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Guttenberg",
+2025-06-14T16:52:52:     "price": 1985,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/6515-boulevard-east-west_new_york/rental/4656030",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/409cfc8a02cf0a55156925d1aad8210a-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "6515 Blvd East",
+2025-06-14T16:52:52:     "latitude": 40.793,
+2025-06-14T16:52:52:     "longitude": -74.0016,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Guttenberg",
+2025-06-14T16:52:52:     "price": 2100,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/6515-boulevard-east-west_new_york/rental/4659530",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/409cfc8a02cf0a55156925d1aad8210a-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "6515 Blvd East",
+2025-06-14T16:52:52:     "latitude": 40.793,
+2025-06-14T16:52:52:     "longitude": -74.0016,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Midtown",
+2025-06-14T16:52:52:     "price": 12995,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-park-imperial/50c",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/d29806a8619eeae323e993380af7375a-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "230 West 56th Street",
+2025-06-14T16:52:52:     "latitude": 40.7652,
+2025-06-14T16:52:52:     "longitude": -73.9823,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Oakland Gardens",
+2025-06-14T16:52:52:     "price": 2600,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/69_07-222-street-oakland_gardens/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/6e95df1575c2d20dec6e764841b9699f-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "69-07 222nd Street",
+2025-06-14T16:52:52:     "latitude": 40.74358,
+2025-06-14T16:52:52:     "longitude": -73.752686,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "East Flatbush",
+2025-06-14T16:52:52:     "price": 3369,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/3403-foster-avenue-brooklyn/2g",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/995f8050d73e98e77436fad8fc60e270-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "3403 Foster Avenue",
+2025-06-14T16:52:52:     "latitude": 40.6392,
+2025-06-14T16:52:52:     "longitude": -73.944,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 2100,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/57-orient-avenue-jersey_city/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/ee724afd44c55be9115591593d266087-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "57 Orient Avenue",
+2025-06-14T16:52:52:     "latitude": 40.709877,
+2025-06-14T16:52:52:     "longitude": -74.079285,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Saint George",
+2025-06-14T16:52:52:     "price": 3300,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-view/4a",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/6250a7a423ff094c86cf6d1cd68ab0f2-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "224 Richmond Terrace",
+2025-06-14T16:52:52:     "latitude": 40.646915,
+2025-06-14T16:52:52:     "longitude": -74.080605,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Saint George",
+2025-06-14T16:52:52:     "price": 2700,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-view/5d",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/ba4ff32c7c254c6bbf950e321ed59223-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "224 Richmond Terrace",
+2025-06-14T16:52:52:     "latitude": 40.646915,
+2025-06-14T16:52:52:     "longitude": -74.080605,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "McGinley Square",
+2025-06-14T16:52:52:     "price": 1900,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/687-bergen-avenue-jersey_city/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/18f81f0639ce966a0e8c233b10800420-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "687 Bergen Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7236,
+2025-06-14T16:52:52:     "longitude": -74.0703,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Union City",
+2025-06-14T16:52:52:     "price": 1800,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/4428_4430-bergenline-avenue-union_city/4b",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/230b150d523a99c4a91f99735925d904-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "4428-4430 Bergenline Avenue",
+2025-06-14T16:52:52:     "latitude": 40.779026,
+2025-06-14T16:52:52:     "longitude": -74.023895,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 1799,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/290-summit-avenue-jersey_city/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/2d0c90f5bfae67efdaddb70137dd93d5-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "290 Summit Avenue",
+2025-06-14T16:52:52:     "latitude": 40.725044,
+2025-06-14T16:52:52:     "longitude": -74.064354,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Guttenberg",
+2025-06-14T16:52:52:     "price": 4200,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/121-abbie-court-guttenberg/121",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/41da01692e401306fa967188977ade97-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "121 Abbie Court",
+2025-06-14T16:52:52:     "latitude": 40.789555,
+2025-06-14T16:52:52:     "longitude": -73.99906,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "The Heights",
+2025-06-14T16:52:52:     "price": 1995,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/3982321",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/a5f3ca6b4063f474d87fe1d4835ad16d-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "39 Bleeker Street",
+2025-06-14T16:52:52:     "latitude": 40.750923,
+2025-06-14T16:52:52:     "longitude": -74.050255,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "The Heights",
+2025-06-14T16:52:52:     "price": 3600,
+2025-06-14T16:52:52:     "bedrooms": 3,
+2025-06-14T16:52:52:     "bathrooms": 2,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/139-cambridge-avenue-jersey_city/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/6c5e846c874eee283bf5f6e2ecd31bef-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "139 Cambridge Avenue",
+2025-06-14T16:52:52:     "latitude": 40.747726,
+2025-06-14T16:52:52:     "longitude": -74.04733,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "McGinley Square",
+2025-06-14T16:52:52:     "price": 3100,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/87-stuyvesant-avenue-jersey_city/1",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/e97fd1174c1125094831adc9633945de-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "87 Stuyvesant Avenue",
+2025-06-14T16:52:52:     "latitude": 40.73024,
+2025-06-14T16:52:52:     "longitude": -74.07235,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bayonne",
+2025-06-14T16:52:52:     "price": 2000,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4613133",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/5434fa5a26301883c505a67968e2ef70-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "196 West 52nd Street",
+2025-06-14T16:52:52:     "latitude": 40.68783,
+2025-06-14T16:52:52:     "longitude": -74.10968,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Secaucus",
+2025-06-14T16:52:52:     "price": 4350,
+2025-06-14T16:52:52:     "bedrooms": 4,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/rental/4505616",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/077a58eac83b0b17c154d11b34f5018c-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "1080 Koelle Boulevard",
+2025-06-14T16:52:52:     "latitude": 40.7981,
+2025-06-14T16:52:52:     "longitude": -74.0505,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bedford-Stuyvesant",
+2025-06-14T16:52:52:     "price": 2400,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/78-herkimer-street-brooklyn/205",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/8e271ed9640c104d83912b41b21bc2b7-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "78 Herkimer Street",
+2025-06-14T16:52:52:     "latitude": 40.679474,
+2025-06-14T16:52:52:     "longitude": -73.95079,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "West Chelsea",
+2025-06-14T16:52:52:     "price": 4412,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52: om/building/507-west-chelsea/717",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/4062089318350aab19b603e81c7eadaa-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "507 West 28th Street",
+2025-06-14T16:52:52:     "latitude": 40.7513,
+2025-06-14T16:52:52:     "longitude": -74.0024,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "The Heights",
+2025-06-14T16:52:52:     "price": 2250,
+2025-06-14T16:52:52:     "bedrooms": 2,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/164-ogden-avenue-jersey_city/305",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/c37a4654df693d9e998e77f73f905900-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "164 Ogden Avenue",
+2025-06-14T16:52:52:     "latitude": 40.7398,
+2025-06-14T16:52:52:     "longitude": -74.0459,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 2035,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-beacon-20-beacon-way-jersey_city/111",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/2b81a29f97569859b6ed7e921eca3428-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "20 Beacon Way",
+2025-06-14T16:52:52:     "latitude": 40.723328,
+2025-06-14T16:52:52:     "longitude": -74.06472,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 2345,
+2025-06-14T16:52:52:     "bedrooms": 1,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-beacon-20-beacon-way-jersey_city/522",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/7d0e44b90515ef2f366c2619603d9f67-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "20 Beacon Way",
+2025-06-14T16:52:52:     "latitude": 40.723328,
+2025-06-14T16:52:52:     "longitude": -74.06472,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   },
+2025-06-14T16:52:52:   {
+2025-06-14T16:52:52:     "title": "Bergen/Lafayette",
+2025-06-14T16:52:52:     "price": 2025,
+2025-06-14T16:52:52:     "bedrooms": 0,
+2025-06-14T16:52:52:     "bathrooms": 1,
+2025-06-14T16:52:52:     "listingUrl": "https://streeteasy.com/building/the-beacon-20-beacon-way-jersey_city/212",
+2025-06-14T16:52:52:     "imageUrls": [
+2025-06-14T16:52:52:       "https://photos.zillowstatic.com/fp/2b81a29f97569859b6ed7e921eca3428-p_e.webp"
+2025-06-14T16:52:52:     ],
+2025-06-14T16:52:52:     "address": "20 Beacon Way",
+2025-06-14T16:52:52:     "latitude": 40.723328,
+2025-06-14T16:52:52:     "longitude": -74.06472,
+2025-06-14T16:52:52:     "city": "New York",
+2025-06-14T16:52:52:     "source": "STREETEASY"
+2025-06-14T16:52:52:   }
+2025-06-14T16:52:52: ]
+2025-06-14T16:52:53: Found 4 listings with empty descriptions
+2025-06-14T16:52:55: Found 1656 listings to process
+2025-06-14T16:52:55: Processing listing: https://streeteasy.com/building/55-jordan-avenue-jersey_city/3599
+2025-06-14T16:52:55: 🧭 Launching browser...
+2025-06-14T16:52:58: 🌐 Navigating to URL: https://streeteasy.com/building/55-jordan-avenue-jersey_city/3599
+2025-06-14T16:52:58: 
+2025-06-14T16:52:58: Stopping scraper cron job...

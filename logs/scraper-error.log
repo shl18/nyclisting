@@ -1,0 +1,238 @@
+2025-06-08T01:20:59: Progress: resolved 1, reused 0, downloaded 0, added 0
+2025-06-08T01:21:00: Progress: resolved 29, reused 5, downloaded 0, added 0
+2025-06-08T01:21:01: Packages: +6
+2025-06-08T01:21:01: ++++++
+2025-06-08T01:21:01: Progress: resolved 30, reused 6, downloaded 0, added 6, done
+2025-06-08T01:21:03: Fatal error in processing listings: Error: getaddrinfo ENOTFOUND db.iuqannnigsiuwisakfta.supabase.co
+2025-06-08T01:21:03:     at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+2025-06-08T01:21:03:   errno: -3008,
+2025-06-08T01:21:03:   code: 'ENOTFOUND',
+2025-06-08T01:21:03:   syscall: 'getaddrinfo',
+2025-06-08T01:21:03:   hostname: 'db.iuqannnigsiuwisakfta.supabase.co'
+2025-06-08T01:21:03: }
+2025-06-08T01:21:03: 💥 Fatal error in processing listings: Error: getaddrinfo ENOTFOUND db.iuqannnigsiuwisakfta.supabase.co
+2025-06-08T01:21:03:     at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+2025-06-08T01:21:03:   errno: -3008,
+2025-06-08T01:21:03:   code: 'ENOTFOUND',
+2025-06-08T01:21:03:   syscall: 'getaddrinfo',
+2025-06-08T01:21:03:   hostname: 'db.iuqannnigsiuwisakfta.supabase.co'
+2025-06-08T01:21:03: }
+2025-06-11T22:16:37: Progress: resolved 1, reused 0, downloaded 0, added 0
+2025-06-11T22:16:38: Progress: resolved 2, reused 1, downloaded 0, added 0
+2025-06-11T22:16:39: Progress: resolved 3, reused 1, downloaded 0, added 0
+2025-06-11T22:16:40: Packages: +6
+2025-06-11T22:16:40: ++++++
+2025-06-11T22:16:40: Progress: resolved 30, reused 5, downloaded 0, added 0
+2025-06-11T22:16:41: Progress: resolved 30, reused 5, downloaded 0, added 5
+2025-06-11T22:16:42: Progress: resolved 30, reused 5, downloaded 1, added 6, done
+2025-06-11T22:16:51: Invalid listing: {
+2025-06-11T22:16:51:   title: 'Waterfront',
+2025-06-11T22:16:51:   price: 4100,
+2025-06-11T22:16:51:   address: '220 9th Street',
+2025-06-11T22:16:51:   bedrooms: 0,
+2025-06-11T22:16:51:   bathrooms: 1,
+2025-06-11T22:16:51:   imageUrls: [ '/placeholder-property.jpg' ],
+2025-06-11T22:16:51:   listingUrl: 'https://streeteasy.com/rental/4597215',
+2025-06-11T22:16:51:   city: 'New York',
+2025-06-11T22:16:51:   source: 'STREETEASY',
+2025-06-11T22:16:51:   latitude: 40.72833,
+2025-06-11T22:16:51:   longitude: -74.04308
+2025-06-11T22:16:51: }
+2025-06-11T22:16:51: Validation errors: [
+2025-06-11T22:16:51:   {
+2025-06-11T22:16:51:     validation: 'url',
+2025-06-11T22:16:51:     code: 'invalid_string',
+2025-06-11T22:16:51:     message: 'Invalid url',
+2025-06-11T22:16:51:     path: [ 'imageUrls', 0 ]
+2025-06-11T22:16:51:   }
+2025-06-11T22:16:51: ]
+2025-06-11T22:17:09: Error occurred while checking the listing: Error: Navigating frame was detached
+2025-06-11T22:17:09:     at LifecycleWatcher.#onFrameDetached (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:188:9)
+2025-06-11T22:17:09:     at /Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:62:7
+2025-06-11T22:17:09:     at Array.map (<anonymous>)
+2025-06-11T22:17:09:     at Object.emit (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:61:20)
+2025-06-11T22:17:09:     at CdpFrame.emit (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/common/EventEmitter.ts:135:19)
+2025-06-11T22:17:09:     at FrameManager.#removeFramesRecursively (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:572:11)
+2025-06-11T22:17:09:     at FrameManager.#onClientDisconnect (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:127:36)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/navigator.webdriver/index.js:19:16)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/window.outerdimensions/index.js:20:16)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/chrome.app/index.js:20:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/chrome.csi/index.js:34:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/chrome.loadTimes/index.js:32:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/chrome.runtime/index.js:26:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/media.codecs/index.js:21:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/navigator.hardwareConcurrency/index.js:32:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/navigator.languages/index.js:28:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/navigator.permissions/index.js:24:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/navigator.plugins/index.js:36:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/webgl.vendor/index.js:27:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at FrameManager.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:282:37)
+2025-06-11T22:17:11:     at CdpPage.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:983:37)
+2025-06-11T22:17:11:     at Object.evaluateOnNewDocument (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/_utils/withUtils.js:33:17)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/iframe.contentWindow/index.js:28:27)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11: Error in checkAllListings: Error: Requesting main frame too early!
+2025-06-11T22:17:11:     at assert (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/assert.ts:19:11)
+2025-06-11T22:17:11:     at FrameManager.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:249:11)
+2025-06-11T22:17:11:     at CdpPage.mainFrame (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Page.ts:488:31)
+2025-06-11T22:17:11:     at CdpPage.goto (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/api/Page.ts:1730:23)
+2025-06-11T22:17:11:     at CdpBrowser._createPageInContext (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3_/node_modules/puppeteer-extra/src/index.ts:271:20)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:11:     at process.processImmediate (node:internal/timers:459:9)
+2025-06-11T22:17:11:     at async CdpBrowserContext.newPage (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/BrowserContext.ts:93:12)
+2025-06-11T22:17:11:     at async CdpBrowser.newPage (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Browser.ts:334:12)
+2025-06-11T22:17:11:     at async checkListing (/Users/sahil/Developer/nyclistings/lib/active-spareroom.ts:11:16)
+2025-06-11T22:17:11: ProtocolError: Protocol error (Browser.getVersion): Session with given id not found.
+2025-06-11T22:17:11:     at Callback.<instance_members_initializer> (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/common/CallbackRegistry.ts:125:12)
+2025-06-11T22:17:11:     at new Callback (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/common/CallbackRegistry.ts:130:3)
+2025-06-11T22:17:11:     at CallbackRegistry.create (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/common/CallbackRegistry.ts:28:22)
+2025-06-11T22:17:11:     at Connection._rawSend (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Connection.ts:136:22)
+2025-06-11T22:17:11:     at Connection.send (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Connection.ts:120:17)
+2025-06-11T22:17:11:     at CdpBrowser.#getVersion (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Browser.ts:420:29)
+2025-06-11T22:17:11:     at CdpBrowser.userAgent (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Browser.ts:399:43)
+2025-06-11T22:17:11:     at Plugin.onPageCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin-stealth@2.11.2_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin-stealth/evasions/user-agent-override/index.js:69:29)
+2025-06-11T22:17:11:     at Plugin._onTargetCreated (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-extra-plugin@3.2.3_puppeteer-extra@3.3.6_puppeteer-core@24.9.0_puppeteer@24.9.0_typescript@5.8.3__/node_modules/puppeteer-extra-plugin/src/index.ts:544:22)
+2025-06-11T22:17:11:     at runNextTicks (node:internal/process/task_queues:65:5)
+2025-06-11T22:17:12: Error occurred while checking the listing: Error: Navigating frame was detached
+2025-06-11T22:17:12:     at LifecycleWatcher.#onFrameDetached (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:188:9)
+2025-06-11T22:17:12:     at /Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:62:7
+2025-06-11T22:17:12:     at Array.map (<anonymous>)
+2025-06-11T22:17:12:     at Object.emit (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:61:20)
+2025-06-11T22:17:12:     at CdpFrame.emit (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/common/EventEmitter.ts:135:19)
+2025-06-11T22:17:12:     at FrameManager.#removeFramesRecursively (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:572:11)
+2025-06-11T22:17:12:     at FrameManager.#onClientDisconnect (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/FrameManager.ts:127:36)
+2025-06-11T22:18:18:  Failed scraping: https://www.spareroom.com/roommate/room_for_rent.pl?flatshare_id=102794566&search_id=500076618236&page=6 TimeoutError: Navigation timeout of 30000 ms exceeded
+2025-06-11T22:18:18:     at new Deferred (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/Deferred.ts:74:28)
+2025-06-11T22:18:18:     at Function.create (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/Deferred.ts:29:12)
+2025-06-11T22:18:18:     at new LifecycleWatcher (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:148:42)
+2025-06-11T22:18:18:     at CdpFrame.goto (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Frame.ts:160:21)
+2025-06-11T22:18:18:     at CdpFrame.<anonymous> (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+2025-06-11T22:18:18:     at CdpPage.goto (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/api/Page.ts:1730:35)
+2025-06-11T22:18:18:     at scrapeSpareRoomWithPuppeteer (/Users/sahil/Developer/nyclistings/lib/scrapping/spareroom-front.ts:73:20)
+2025-06-11T22:18:18:     at async processEmptyDescriptions (/Users/sahil/Developer/nyclistings/lib/scrapping/spareroom-front.ts:309:27)
+2025-06-11T22:18:18: Retry 1/3 failed for erpjtgcbnooa1jlp2vmcrhp7: TimeoutError: Navigation timeout of 30000 ms exceeded
+2025-06-11T22:18:18:     at new Deferred (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/Deferred.ts:74:28)
+2025-06-11T22:18:18:     at Function.create (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/Deferred.ts:29:12)
+2025-06-11T22:18:18:     at new LifecycleWatcher (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:148:42)
+2025-06-11T22:18:18:     at CdpFrame.goto (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/cdp/Frame.ts:160:21)
+2025-06-11T22:18:18:     at CdpFrame.<anonymous> (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+2025-06-11T22:18:18:     at CdpPage.goto (/Users/sahil/Developer/nyclistings/node_modules/.pnpm/puppeteer-core@24.9.0/node_modules/puppeteer-core/src/api/Page.ts:1730:35)
+2025-06-11T22:18:18:     at scrapeSpareRoomWithPuppeteer (/Users/sahil/Developer/nyclistings/lib/scrapping/spareroom-front.ts:73:20)
+2025-06-11T22:18:18:     at async processEmptyDescriptions (/Users/sahil/Developer/nyclistings/lib/scrapping/spareroom-front.ts:309:27)
+2025-06-14T16:52:43: Progress: resolved 1, reused 0, downloaded 0, added 0
+2025-06-14T16:52:44: Progress: resolved 3, reused 2, downloaded 0, added 0
+2025-06-14T16:52:45: Packages: +6
+2025-06-14T16:52:45: ++++++
+2025-06-14T16:52:45: Progress: resolved 30, reused 5, downloaded 0, added 5
+2025-06-14T16:52:46: Progress: resolved 30, reused 5, downloaded 1, added 6, done

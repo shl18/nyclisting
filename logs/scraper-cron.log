@@ -1,0 +1,182 @@
+[2025-06-07T14:48:24.197Z] Starting scraper cron job...
+[2025-06-07T14:48:24.198Z] Starting scheduled scraping jobs...
+[2025-06-07T14:48:24.198Z] Running SpareRoom scraper...
+[2025-06-07T14:48:24.200Z] Scraper cron job started. Will run every 12 hours.
+[2025-06-07T14:54:52.669Z] Scraper cron jobs started.
+[2025-06-07T14:54:52.669Z] Main scrapers will run every 12 hours.
+[2025-06-07T14:54:52.669Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-07T14:54:52.670Z] Next main run scheduled for: 6/8/2025, 8:00:00 AM
+[2025-06-07T14:54:52.670Z] Next front-end run scheduled for: 6/8/2025, 8:30:00 AM
+[2025-06-07T14:54:52.670Z] Time until next main run: 695 minutes
+[2025-06-07T14:54:52.670Z] Time until next front-end run: 725 minutes
+[2025-06-07T19:51:03.829Z] Scraper cron jobs started.
+[2025-06-07T19:51:03.829Z] Main scrapers will run every 12 hours.
+[2025-06-07T19:51:03.829Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-07T19:51:03.829Z] Next main run scheduled for: 6/8/2025, 1:00:00 PM
+[2025-06-07T19:51:03.829Z] Next front-end run scheduled for: 6/8/2025, 1:30:00 PM
+[2025-06-07T19:51:03.829Z] Time until next main run: 698 minutes
+[2025-06-07T19:51:03.829Z] Time until next front-end run: 728 minutes
+[2025-06-10T14:08:39.043Z] Scraper cron jobs started.
+[2025-06-10T14:08:39.044Z] Main scrapers will run every 12 hours.
+[2025-06-10T14:08:39.044Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-10T14:08:39.044Z] Next main run scheduled for: 6/11/2025, 7:00:00 AM
+[2025-06-10T14:08:39.044Z] Next front-end run scheduled for: 6/11/2025, 7:30:00 AM
+[2025-06-10T14:08:39.044Z] Time until next main run: 681 minutes
+[2025-06-10T14:08:39.044Z] Time until next front-end run: 711 minutes
+[2025-06-10T14:08:53.923Z] Scraper cron jobs started.
+[2025-06-10T14:08:53.923Z] Main scrapers will run every 12 hours.
+[2025-06-10T14:08:53.923Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-10T14:08:53.924Z] Next main run scheduled for: 6/11/2025, 7:00:00 AM
+[2025-06-10T14:08:53.924Z] Next front-end run scheduled for: 6/11/2025, 7:30:00 AM
+[2025-06-10T14:08:53.924Z] Time until next main run: 681 minutes
+[2025-06-10T14:08:53.924Z] Time until next front-end run: 711 minutes
+[2025-06-10T14:17:14.889Z] Scraper cron jobs started.
+[2025-06-10T14:17:14.890Z] Main scrapers will run every 12 hours.
+[2025-06-10T14:17:14.890Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-10T14:17:14.890Z] Listing checks will run daily at 9:00 AM.
+[2025-06-10T14:17:14.890Z] Next main run scheduled for: 6/11/2025, 7:00:00 AM
+[2025-06-10T14:17:14.890Z] Next front-end run scheduled for: 6/11/2025, 7:30:00 AM
+[2025-06-10T14:17:14.890Z] Next listing checks run scheduled for: 6/11/2025, 9:00:00 AM
+[2025-06-10T14:17:14.890Z] Time until next main run: 672 minutes
+[2025-06-10T14:17:14.890Z] Time until next front-end run: 702 minutes
+[2025-06-10T14:17:14.890Z] Time until next listing checks run: 792 minutes
+[2025-06-10T14:17:22.663Z] Scraper cron jobs started.
+[2025-06-10T14:17:22.663Z] Main scrapers will run every 12 hours.
+[2025-06-10T14:17:22.663Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-10T14:17:22.663Z] Listing checks will run daily at 9:00 AM.
+[2025-06-10T14:17:22.663Z] Next main run scheduled for: 6/11/2025, 7:00:00 AM
+[2025-06-10T14:17:22.663Z] Next front-end run scheduled for: 6/11/2025, 7:30:00 AM
+[2025-06-10T14:17:22.663Z] Next listing checks run scheduled for: 6/11/2025, 9:00:00 AM
+[2025-06-10T14:17:22.663Z] Time until next main run: 672 minutes
+[2025-06-10T14:17:22.663Z] Time until next front-end run: 702 minutes
+[2025-06-10T14:17:22.664Z] Time until next listing checks run: 792 minutes
+[2025-06-11T16:45:29.912Z] Scraper cron jobs started.
+[2025-06-11T16:45:29.912Z] Main scrapers will run every 12 hours.
+[2025-06-11T16:45:29.912Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-11T16:45:29.912Z] Listing checks will run daily at 9:00 AM.
+[2025-06-11T16:45:29.912Z] Next main run scheduled for: 6/12/2025, 10:00:00 AM
+[2025-06-11T16:45:29.912Z] Next front-end run scheduled for: 6/12/2025, 10:30:00 AM
+[2025-06-11T16:45:29.912Z] Next listing checks run scheduled for: 6/12/2025, 9:00:00 AM
+[2025-06-11T16:45:29.913Z] Time until next main run: 704 minutes
+[2025-06-11T16:45:29.913Z] Time until next front-end run: 734 minutes
+[2025-06-11T16:45:29.913Z] Time until next listing checks run: 644 minutes
+[2025-06-11T16:46:47.437Z] Scraper cron jobs started.
+[2025-06-11T16:46:47.438Z] Main scrapers will run every 12 hours.
+[2025-06-11T16:46:47.438Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-11T16:46:47.438Z] Listing checks will run daily at 9:00 AM.
+[2025-06-11T16:46:47.438Z] Next main run scheduled for: 6/12/2025, 10:00:00 AM
+[2025-06-11T16:46:47.438Z] Next front-end run scheduled for: 6/12/2025, 10:30:00 AM
+[2025-06-11T16:46:47.438Z] Next listing checks run scheduled for: 6/12/2025, 9:00:00 AM
+[2025-06-11T16:46:47.438Z] Time until next main run: 703 minutes
+[2025-06-11T16:46:47.438Z] Time until next front-end run: 733 minutes
+[2025-06-11T16:46:47.438Z] Time until next listing checks run: 643 minutes
+[2025-06-11T16:50:51.090Z] Scraper cron jobs started.
+[2025-06-11T16:50:51.092Z] Main scrapers will run every 12 hours.
+[2025-06-11T16:50:51.092Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-11T16:50:51.092Z] Listing checks will run daily at 9:00 AM.
+[2025-06-11T16:50:51.092Z] Next main run scheduled for: 6/12/2025, 10:00:00 AM
+[2025-06-11T16:50:51.092Z] Next front-end run scheduled for: 6/12/2025, 10:30:00 AM
+[2025-06-11T16:50:51.092Z] Next listing checks run scheduled for: 6/12/2025, 9:00:00 AM
+[2025-06-11T16:50:51.092Z] Time until next main run: 699 minutes
+[2025-06-11T16:50:51.092Z] Time until next front-end run: 729 minutes
+[2025-06-11T16:50:51.092Z] Time until next listing checks run: 639 minutes
+[2025-06-12T05:35:14.059Z] Scraper cron jobs started.
+[2025-06-12T05:35:14.059Z] Main scrapers will run every 12 hours.
+[2025-06-12T05:35:14.059Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-12T05:35:14.060Z] Listing checks will run daily at 9:00 AM.
+[2025-06-12T05:35:14.060Z] Next main run scheduled for: 6/12/2025, 11:00:00 PM
+[2025-06-12T05:35:14.060Z] Next front-end run scheduled for: 6/12/2025, 11:30:00 PM
+[2025-06-12T05:35:14.060Z] Next listing checks run scheduled for: 6/13/2025, 9:00:00 AM
+[2025-06-12T05:35:14.060Z] Time until next main run: 714 minutes
+[2025-06-12T05:35:14.060Z] Time until next front-end run: 744 minutes
+[2025-06-12T05:35:14.060Z] Time until next listing checks run: 1314 minutes
+[2025-06-12T05:36:10.095Z] Scraper cron jobs started.
+[2025-06-12T05:36:10.096Z] Main scrapers will run every 12 hours.
+[2025-06-12T05:36:10.096Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-12T05:36:10.096Z] Listing checks will run daily at 9:00 AM.
+[2025-06-12T05:36:10.096Z] Next main run scheduled for: 6/12/2025, 11:00:00 PM
+[2025-06-12T05:36:10.096Z] Next front-end run scheduled for: 6/12/2025, 11:30:00 PM
+[2025-06-12T05:36:10.096Z] Next listing checks run scheduled for: 6/13/2025, 9:00:00 AM
+[2025-06-12T05:36:10.096Z] Time until next main run: 713 minutes
+[2025-06-12T05:36:10.096Z] Time until next front-end run: 743 minutes
+[2025-06-12T05:36:10.096Z] Time until next listing checks run: 1313 minutes
+[2025-06-14T11:22:51.063Z] Scraper cron jobs started.
+[2025-06-14T11:22:51.063Z] Main scrapers will run every 12 hours.
+[2025-06-14T11:22:51.063Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-14T11:22:51.063Z] Listing checks will run daily at 9:00 AM.
+[2025-06-14T11:22:51.063Z] Next main run scheduled for: 6/15/2025, 4:00:00 AM
+[2025-06-14T11:22:51.063Z] Next front-end run scheduled for: 6/15/2025, 4:30:00 AM
+[2025-06-14T11:22:51.063Z] Next listing checks run scheduled for: 6/15/2025, 9:00:00 AM
+[2025-06-14T11:22:51.063Z] Time until next main run: 667 minutes
+[2025-06-14T11:22:51.064Z] Time until next front-end run: 697 minutes
+[2025-06-14T11:22:51.064Z] Time until next listing checks run: 967 minutes
+[2025-06-14T12:22:31.202Z] Scraper cron jobs started.
+[2025-06-14T12:22:31.203Z] Main scrapers will run every 12 hours.
+[2025-06-14T12:22:31.203Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-14T12:22:31.203Z] Listing checks will run daily at 9:00 AM.
+[2025-06-14T12:22:31.203Z] Next main run scheduled for: 6/15/2025, 5:00:00 AM
+[2025-06-14T12:22:31.203Z] Next front-end run scheduled for: 6/15/2025, 5:30:00 AM
+[2025-06-14T12:22:31.203Z] Next listing checks run scheduled for: 6/15/2025, 9:00:00 AM
+[2025-06-14T12:22:31.203Z] Time until next main run: 667 minutes
+[2025-06-14T12:22:31.204Z] Time until next front-end run: 697 minutes
+[2025-06-14T12:22:31.204Z] Time until next listing checks run: 907 minutes
+[2025-06-14T12:24:16.481Z] Scraper cron jobs started.
+[2025-06-14T12:24:16.482Z] Main scrapers will run every 12 hours.
+[2025-06-14T12:24:16.482Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-14T12:24:16.482Z] Listing checks will run daily at 9:00 AM.
+[2025-06-14T12:24:16.483Z] Next main run scheduled for: 6/15/2025, 5:00:00 AM
+[2025-06-14T12:24:16.483Z] Next front-end run scheduled for: 6/15/2025, 5:30:00 AM
+[2025-06-14T12:24:16.483Z] Next listing checks run scheduled for: 6/15/2025, 9:00:00 AM
+[2025-06-14T12:24:16.483Z] Time until next main run: 665 minutes
+[2025-06-14T12:24:16.483Z] Time until next front-end run: 695 minutes
+[2025-06-14T12:24:16.483Z] Time until next listing checks run: 905 minutes
+[2025-06-14T12:29:20.429Z] Scraper cron jobs started.
+[2025-06-14T12:29:20.431Z] Main scrapers will run every 12 hours.
+[2025-06-14T12:29:20.431Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-14T12:29:20.431Z] Listing checks will run daily at 9:00 AM.
+[2025-06-14T12:29:20.431Z] Next main run scheduled for: 6/15/2025, 5:00:00 AM
+[2025-06-14T12:29:20.431Z] Next front-end run scheduled for: 6/15/2025, 5:30:00 AM
+[2025-06-14T12:29:20.432Z] Next listing checks run scheduled for: 6/15/2025, 9:00:00 AM
+[2025-06-14T12:29:20.432Z] Time until next main run: 660 minutes
+[2025-06-14T12:29:20.432Z] Time until next front-end run: 690 minutes
+[2025-06-14T12:29:20.432Z] Time until next listing checks run: 900 minutes
+[2025-06-14T12:31:11.125Z] Scraper cron jobs started.
+[2025-06-14T12:31:11.125Z] Main scrapers will run every 12 hours.
+[2025-06-14T12:31:11.125Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-14T12:31:11.125Z] Listing checks will run daily at 9:00 AM.
+[2025-06-14T12:31:11.125Z] Next main run scheduled for: 6/15/2025, 6:00:00 AM
+[2025-06-14T12:31:11.126Z] Next front-end run scheduled for: 6/15/2025, 6:30:00 AM
+[2025-06-14T12:31:11.126Z] Next listing checks run scheduled for: 6/15/2025, 9:00:00 AM
+[2025-06-14T12:31:11.126Z] Time until next main run: 718 minutes
+[2025-06-14T12:31:11.126Z] Time until next front-end run: 748 minutes
+[2025-06-14T12:31:11.126Z] Time until next listing checks run: 898 minutes
+[2025-06-14T12:36:22.693Z] Scraper cron jobs started.
+[2025-06-14T12:36:22.695Z] Main scrapers will run every 12 hours.
+[2025-06-14T12:36:22.695Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-14T12:36:22.695Z] Listing checks will run daily at 9:00 AM.
+[2025-06-14T12:36:22.695Z] Next main run scheduled for: 6/15/2025, 6:00:00 AM
+[2025-06-14T12:36:22.695Z] Next front-end run scheduled for: 6/15/2025, 6:30:00 AM
+[2025-06-14T12:36:22.695Z] Next listing checks run scheduled for: 6/15/2025, 9:00:00 AM
+[2025-06-14T12:36:22.695Z] Time until next main run: 713 minutes
+[2025-06-14T12:36:22.695Z] Time until next front-end run: 743 minutes
+[2025-06-14T12:36:22.695Z] Time until next listing checks run: 893 minutes
+[2025-06-20T10:04:55.878Z] Scraper cron jobs started.
+[2025-06-20T10:04:55.878Z] Main scrapers will run every 12 hours.
+[2025-06-20T10:04:55.879Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-20T10:04:55.879Z] Listing checks will run daily at 9:00 AM.
+[2025-06-20T10:04:55.879Z] Next main run scheduled for: 6/21/2025, 3:00:00 AM
+[2025-06-20T10:04:55.879Z] Next front-end run scheduled for: 6/21/2025, 3:30:00 AM
+[2025-06-20T10:04:55.879Z] Next listing checks run scheduled for: 6/21/2025, 9:00:00 AM
+[2025-06-20T10:04:55.879Z] Time until next main run: 685 minutes
+[2025-06-20T10:04:55.879Z] Time until next front-end run: 715 minutes
+[2025-06-20T10:04:55.879Z] Time until next listing checks run: 1045 minutes
+[2025-06-20T10:15:40.719Z] Scraper cron jobs started.
+[2025-06-20T10:15:40.720Z] Main scrapers will run every 12 hours.
+[2025-06-20T10:15:40.720Z] Front-end scrapers will run every 12.5 hours.
+[2025-06-20T10:15:40.720Z] Listing checks will run daily at 9:00 AM.
+[2025-06-20T10:15:40.720Z] Next main run scheduled for: 6/21/2025, 3:00:00 AM
+[2025-06-20T10:15:40.720Z] Next front-end run scheduled for: 6/21/2025, 3:30:00 AM
+[2025-06-20T10:15:40.720Z] Next listing checks run scheduled for: 6/21/2025, 9:00:00 AM
+[2025-06-20T10:15:40.720Z] Time until next main run: 674 minutes
+[2025-06-20T10:15:40.720Z] Time until next front-end run: 704 minutes
+[2025-06-20T10:15:40.720Z] Time until next listing checks run: 1034 minutes
